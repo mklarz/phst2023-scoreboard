@@ -30,5 +30,5 @@ if [[ `git status --porcelain` ]]; then
   git commit -m "[SCOREBOARD] update"
   git push origin main
 else
-#  echo "No differences"
-#fi
+  echo "No differences"
+fi
