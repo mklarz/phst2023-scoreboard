@@ -306,5 +306,19 @@
     "score": 1,
     "num_solves": 1,
     "latest_solve_time": "2023-03-30T21:09:48.079626+00:00"
+  },
+  {
+    "user_id": "fd206fa9-6a1e-436c-b9c2-9242c632a01e",
+    "username": "magnus",
+    "score": 1,
+    "num_solves": 1,
+    "latest_solve_time": "2023-03-30T22:01:41.084044+00:00"
+  },
+  {
+    "user_id": "ddcfec9b-f08e-477e-8505-8fc653645547",
+    "username": "kreft",
+    "score": 1,
+    "num_solves": 1,
+    "latest_solve_time": "2023-03-30T22:10:16.368956+00:00"
   }
 ]
