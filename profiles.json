@@ -18,12 +18,6 @@
     "valid_from": "2023-03-30T15:38:33"
   },
   {
-    "id": "a2d49e57-33dc-49a3-bc88-a85b21ea9aef",
-    "updated_at": "2023-03-30T15:41:26.047551+00:00",
-    "username": null,
-    "valid_from": "2023-03-30T15:41:26"
-  },
-  {
     "id": "b9142845-2269-4130-93e0-3f41b9716b46",
     "updated_at": "2023-03-29T12:35:17.752432+00:00",
     "username": null,
@@ -714,6 +708,12 @@
     "valid_from": "2023-03-30T18:19:52"
   },
   {
+    "id": "a2d49e57-33dc-49a3-bc88-a85b21ea9aef",
+    "updated_at": "2023-03-30T15:41:26.047551+00:00",
+    "username": "riks",
+    "valid_from": "2023-03-30T20:43:19"
+  },
+  {
     "id": "bd739281-7e1e-4fad-afd9-f15660cd2d01",
     "updated_at": "2023-03-30T18:06:41.142946+00:00",
     "username": "Kyllingpostei",
@@ -886,5 +886,11 @@
     "updated_at": "2023-03-30T20:15:39.761786+00:00",
     "username": "Joey",
     "valid_from": "2023-03-30T20:19:43"
+  },
+  {
+    "id": "cdde6386-1e40-43bc-81b9-20cc0d9fef7d",
+    "updated_at": "2023-03-30T20:41:14.098552+00:00",
+    "username": "Heidipleidi",
+    "valid_from": "2023-03-30T20:41:49"
   }
 ]
