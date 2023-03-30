@@ -174,12 +174,6 @@
     "valid_from": "2023-03-30T16:41:05"
   },
   {
-    "id": "1f2eddd8-4fe0-4ea6-9485-b8f9353042ed",
-    "updated_at": "2023-03-30T09:18:54.856827+00:00",
-    "username": "Skuggen",
-    "valid_from": "2023-03-30T09:22:18"
-  },
-  {
     "id": "e4c61799-1f0f-400b-8812-ff19993dfb10",
     "updated_at": "2023-03-30T16:41:01.797896+00:00",
     "username": "Thecodingbeast",
@@ -796,5 +790,23 @@
     "updated_at": "2023-03-30T19:01:40.181584+00:00",
     "username": "Dionysios",
     "valid_from": "2023-03-30T19:05:30"
+  },
+  {
+    "id": "0c38365e-6da8-4623-98c7-d549130eec5b",
+    "updated_at": "2023-03-30T19:22:59.298636+00:00",
+    "username": "Amalielalala",
+    "valid_from": "2023-03-30T19:23:33"
+  },
+  {
+    "id": "1f2eddd8-4fe0-4ea6-9485-b8f9353042ed",
+    "updated_at": "2023-03-30T09:18:54.856827+00:00",
+    "username": "BobKåre",
+    "valid_from": "2023-03-30T19:26:36"
+  },
+  {
+    "id": "b8760d58-7324-46d8-8614-5b7f4c52a402",
+    "updated_at": "2023-03-30T19:29:22.722462+00:00",
+    "username": null,
+    "valid_from": "2023-03-30T19:29:23"
   }
 ]
