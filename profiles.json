@@ -1458,6 +1458,18 @@
     "valid_from": "2023-03-30T22:41:33"
   },
   {
+    "id": "1d0fcd52-6a40-402f-a7fe-d9157c6aac21",
+    "updated_at": "2023-03-31T08:47:11.867108+00:00",
+    "username": "carburetti",
+    "valid_from": "2023-03-31T08:48:00"
+  },
+  {
+    "id": "e783ade1-8c4f-437b-9923-fe5c7d4c3863",
+    "updated_at": "2023-03-31T08:49:39.592421+00:00",
+    "username": null,
+    "valid_from": "2023-03-31T08:49:40"
+  },
+  {
     "id": "ebbb66ee-c61f-4002-8725-150bb366520d",
     "updated_at": "2023-03-30T22:43:24.455083+00:00",
     "username": "glenn",
@@ -1474,6 +1486,12 @@
     "updated_at": "2023-03-30T22:43:40.988506+00:00",
     "username": "0x0000001",
     "valid_from": "2023-03-30T22:45:50"
+  },
+  {
+    "id": "f89cd57c-bb23-4cd4-9a9b-59359b597aca",
+    "updated_at": "2023-03-31T08:50:03.341754+00:00",
+    "username": "TorpedoShark",
+    "valid_from": "2023-03-31T08:50:40"
   },
   {
     "id": "2bf1e5c8-d1b5-4de8-b977-86ac2a2e17c2",
@@ -1494,6 +1512,12 @@
     "valid_from": "2023-03-30T23:09:30"
   },
   {
+    "id": "166bc3bb-e933-450b-9a99-1bd3cc8747a6",
+    "updated_at": "2023-03-31T08:51:46.20738+00:00",
+    "username": "Påskmust",
+    "valid_from": "2023-03-31T08:52:38"
+  },
+  {
     "id": "bfe32e0b-f3bb-48cb-9290-1a5bb2870b42",
     "updated_at": "2023-03-30T23:16:31.856311+00:00",
     "username": "mstg",
@@ -1506,6 +1530,12 @@
     "valid_from": "2023-03-30T23:29:43"
   },
   {
+    "id": "9b226b70-a23b-4e9a-834e-b15df558a0db",
+    "updated_at": "2023-03-31T08:54:51.77376+00:00",
+    "username": null,
+    "valid_from": "2023-03-31T08:54:52"
+  },
+  {
     "id": "cfa7bf56-b0a1-4e01-b9bd-294d6c0ac3b6",
     "updated_at": "2023-03-30T23:31:37.764379+00:00",
     "username": "IHA",
@@ -1516,6 +1546,12 @@
     "updated_at": "2023-03-31T00:12:45.224288+00:00",
     "username": null,
     "valid_from": "2023-03-31T00:12:45"
+  },
+  {
+    "id": "f7bd0768-b193-4d59-899b-cd1ec5d7804d",
+    "updated_at": "2023-03-31T08:58:24.711357+00:00",
+    "username": null,
+    "valid_from": "2023-03-31T08:58:25"
   },
   {
     "id": "1db149bc-5735-4bf0-8d94-135af395ba82",
