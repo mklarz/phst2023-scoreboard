@@ -2224,5 +2224,11 @@
     "updated_at": "2023-03-31T18:53:42.950512+00:00",
     "username": null,
     "valid_from": "2023-03-31T18:53:43"
+  },
+  {
+    "id": "7f3594d5-fb26-46e8-9c7f-910f041af28a",
+    "updated_at": "2023-03-31T19:06:38.193003+00:00",
+    "username": "bruker uten navn",
+    "valid_from": "2023-03-31T19:08:40"
   }
 ]
