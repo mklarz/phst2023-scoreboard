@@ -1100,8 +1100,26 @@
   {
     "id": "b2de0a7e-855f-4880-84e1-d705a390160d",
     "updated_at": "2023-03-31T11:37:53.695296+00:00",
-    "username": null,
-    "valid_from": "2023-03-31T11:37:54"
+    "username": "Tryggbert",
+    "valid_from": "2023-03-31T11:48:40"
+  },
+  {
+    "id": "9f0f1b75-f568-42d6-a345-dbfc3283f918",
+    "updated_at": "2023-03-31T11:51:27.028103+00:00",
+    "username": "Reeite",
+    "valid_from": "2023-03-31T11:52:00"
+  },
+  {
+    "id": "37ec93a0-cc5b-490d-b402-cf583a6b10a6",
+    "updated_at": "2023-03-31T11:51:23.465672+00:00",
+    "username": "Docaine",
+    "valid_from": "2023-03-31T11:52:10"
+  },
+  {
+    "id": "c15af957-c465-4aa0-a534-f6821bb18ad7",
+    "updated_at": "2023-03-31T11:47:23.516504+00:00",
+    "username": "Restaurant&matfag_ENJOYER",
+    "valid_from": "2023-03-31T11:52:16"
   },
   {
     "id": "53fe0f68-930f-44bb-9d3e-93f0fbe62797",
