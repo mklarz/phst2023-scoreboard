@@ -2218,5 +2218,11 @@
     "updated_at": "2023-03-31T18:36:36.826794+00:00",
     "username": "HaraldJordfreser",
     "valid_from": "2023-03-31T18:37:56"
+  },
+  {
+    "id": "eb210fbb-860e-4818-b03b-3caf172420d8",
+    "updated_at": "2023-03-31T18:53:42.950512+00:00",
+    "username": null,
+    "valid_from": "2023-03-31T18:53:43"
   }
 ]
