@@ -2220,12 +2220,6 @@
     "valid_from": "2023-03-31T18:53:43"
   },
   {
-    "id": "7f3594d5-fb26-46e8-9c7f-910f041af28a",
-    "updated_at": "2023-03-31T19:06:38.193003+00:00",
-    "username": "bruker uten navn",
-    "valid_from": "2023-03-31T19:08:40"
-  },
-  {
     "id": "64c7914e-2d93-4cc4-bd92-b33fc620882e",
     "updated_at": "2023-03-31T19:21:32.403141+00:00",
     "username": null,
@@ -2338,5 +2332,17 @@
     "updated_at": "2023-03-31T20:10:32.845139+00:00",
     "username": "Hønemor",
     "valid_from": "2023-03-31T20:11:24"
+  },
+  {
+    "id": "7f3594d5-fb26-46e8-9c7f-910f041af28a",
+    "updated_at": "2023-03-31T19:06:38.193003+00:00",
+    "username": "bruker_uten_navn",
+    "valid_from": "2023-03-31T20:26:17"
+  },
+  {
+    "id": "53eccc7c-67dd-4c13-a404-1289bb59a36d",
+    "updated_at": "2023-03-31T20:28:45.198092+00:00",
+    "username": "sofa_løser",
+    "valid_from": "2023-03-31T20:29:32"
   }
 ]
