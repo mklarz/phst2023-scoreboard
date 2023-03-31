@@ -826,6 +826,13 @@
     "latest_solve_time": "2023-03-31T19:31:00.467552+00:00"
   },
   {
+    "user_id": "2728b044-d6ac-489a-afb6-e6aa8da275c2",
+    "username": "🐣Gulla🐣",
+    "score": 1,
+    "num_solves": 1,
+    "latest_solve_time": "2023-03-31T19:41:04.308174+00:00"
+  },
+  {
     "user_id": "53eccc7c-67dd-4c13-a404-1289bb59a36d",
     "username": "sofa_løser",
     "score": 1,
@@ -845,5 +852,12 @@
     "score": 1,
     "num_solves": 1,
     "latest_solve_time": "2023-03-31T21:00:05.200109+00:00"
+  },
+  {
+    "user_id": "4285ee2a-a2b4-4620-80a9-d7dc48479f85",
+    "username": "Duna99",
+    "score": 1,
+    "num_solves": 1,
+    "latest_solve_time": "2023-03-31T21:26:17.534277+00:00"
   }
 ]
