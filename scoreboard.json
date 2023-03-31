@@ -733,5 +733,19 @@
     "score": 1,
     "num_solves": 1,
     "latest_solve_time": "2023-03-31T15:14:55.498828+00:00"
+  },
+  {
+    "user_id": "52a64829-0c23-480a-9310-adf2bbd3aefe",
+    "username": "Dolores",
+    "score": 1,
+    "num_solves": 1,
+    "latest_solve_time": "2023-03-31T15:38:21.370202+00:00"
+  },
+  {
+    "user_id": "d0cd8082-9f60-4964-8118-c8fa6cbdbc7c",
+    "username": "Natu",
+    "score": 1,
+    "num_solves": 1,
+    "latest_solve_time": "2023-03-31T15:39:44.006192+00:00"
   }
 ]
