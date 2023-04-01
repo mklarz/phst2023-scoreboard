@@ -2466,12 +2466,6 @@
     "valid_from": "2023-04-01T08:15:32"
   },
   {
-    "id": "f1cbbff7-9110-466f-abfa-1a800d4e4d8d",
-    "updated_at": "2023-04-01T08:20:50.728907+00:00",
-    "username": "LA<3",
-    "valid_from": "2023-04-01T08:28:14"
-  },
-  {
     "id": "115fd1b3-1558-473d-8634-62c2ae63bf61",
     "updated_at": "2023-04-01T08:31:28.829023+00:00",
     "username": "Earthround",
@@ -2626,5 +2620,23 @@
     "updated_at": "2023-04-01T11:50:54.821747+00:00",
     "username": "Sna",
     "valid_from": "2023-04-01T11:51:56"
+  },
+  {
+    "id": "f1cbbff7-9110-466f-abfa-1a800d4e4d8d",
+    "updated_at": "2023-04-01T08:20:50.728907+00:00",
+    "username": "LA<3",
+    "valid_from": "2023-04-01T12:06:39"
+  },
+  {
+    "id": "a963dcc1-875b-4084-8f97-b1d280e957d9",
+    "updated_at": "2023-04-01T12:11:52.314629+00:00",
+    "username": "Oslolosen",
+    "valid_from": "2023-04-01T12:12:35"
+  },
+  {
+    "id": "3b7c30fe-0c18-40d4-bdff-f1124f6ccf48",
+    "updated_at": "2023-04-01T12:14:12.600458+00:00",
+    "username": null,
+    "valid_from": "2023-04-01T12:14:13"
   }
 ]
