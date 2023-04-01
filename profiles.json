@@ -2650,5 +2650,17 @@
     "updated_at": "2023-04-01T12:24:16.728978+00:00",
     "username": "fremtidignaver",
     "valid_from": "2023-04-01T12:25:30"
+  },
+  {
+    "id": "57b18852-07e2-49b8-81e5-34a3cc1e6bb5",
+    "updated_at": "2023-04-01T12:46:35.094029+00:00",
+    "username": null,
+    "valid_from": "2023-04-01T12:46:35"
+  },
+  {
+    "id": "66d8a838-5aec-4a8a-a50f-850fb734a430",
+    "updated_at": "2023-04-01T12:48:11.890896+00:00",
+    "username": "Killi",
+    "valid_from": "2023-04-01T12:48:47"
   }
 ]
