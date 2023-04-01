@@ -2470,5 +2470,17 @@
     "updated_at": "2023-04-01T07:58:18.671409+00:00",
     "username": "Påskekyllingagent",
     "valid_from": "2023-04-01T07:59:30"
+  },
+  {
+    "id": "13d86719-f70b-437b-bc1c-7b6718a6851a",
+    "updated_at": "2023-04-01T08:01:13.527791+00:00",
+    "username": "SveinP",
+    "valid_from": "2023-04-01T08:02:52"
+  },
+  {
+    "id": "ee1e405b-a22d-4010-baf5-3c0be6edb9b7",
+    "updated_at": "2023-04-01T08:14:58.375639+00:00",
+    "username": null,
+    "valid_from": "2023-04-01T08:14:58"
   }
 ]
