@@ -343,6 +343,13 @@
     "latest_solve_time": "2023-04-01T20:56:10.648403+00:00"
   },
   {
+    "user_id": "2bfb2293-f606-4115-bb6e-6a3ad682b8c4",
+    "username": "josvik",
+    "score": 12,
+    "num_solves": 3,
+    "latest_solve_time": "2023-04-01T21:04:51.395224+00:00"
+  },
+  {
     "user_id": "48c28cd8-d82d-4578-b504-7c9ad611fb95",
     "username": "Tuxern",
     "score": 11,
@@ -665,18 +672,18 @@
     "latest_solve_time": "2023-04-01T20:04:53.485256+00:00"
   },
   {
-    "user_id": "2bfb2293-f606-4115-bb6e-6a3ad682b8c4",
-    "username": "josvik",
-    "score": 11,
-    "num_solves": 2,
-    "latest_solve_time": "2023-04-01T20:10:44.71468+00:00"
-  },
-  {
     "user_id": "cd31a8ac-6309-4226-9186-bd07578c1714",
     "username": "BeeSoupa",
     "score": 11,
     "num_solves": 2,
     "latest_solve_time": "2023-04-01T20:46:30.773373+00:00"
+  },
+  {
+    "user_id": "c2663d3d-e712-4e18-a313-fe8dab1e338c",
+    "username": "hilde",
+    "score": 11,
+    "num_solves": 2,
+    "latest_solve_time": "2023-04-01T21:03:02.464614+00:00"
   },
   {
     "user_id": "d214e27b-8632-4299-9e8e-7360739048a3",
@@ -840,6 +847,20 @@
     "latest_solve_time": "2023-04-01T20:56:17.923737+00:00"
   },
   {
+    "user_id": "175c5e89-50f5-4a07-9038-bddb3432c667",
+    "username": "mztlptlk",
+    "score": 10,
+    "num_solves": 1,
+    "latest_solve_time": "2023-04-01T21:03:37.447724+00:00"
+  },
+  {
+    "user_id": "fe9bdd04-b496-4eb2-ad43-e038de5b4fe6",
+    "username": "loder",
+    "score": 10,
+    "num_solves": 1,
+    "latest_solve_time": "2023-04-01T21:09:59.447597+00:00"
+  },
+  {
     "user_id": "2c568fb7-9cd8-4299-ac70-7d06e9a37c25",
     "username": "FULLFØR CYBERLANDSLAGET",
     "score": 1,
@@ -873,13 +894,6 @@
     "score": 1,
     "num_solves": 1,
     "latest_solve_time": "2023-03-30T09:51:30.068934+00:00"
-  },
-  {
-    "user_id": "c2663d3d-e712-4e18-a313-fe8dab1e338c",
-    "username": "hilde",
-    "score": 1,
-    "num_solves": 1,
-    "latest_solve_time": "2023-03-30T11:51:13.217347+00:00"
   },
   {
     "user_id": "7fbc707a-d5f0-487b-86cd-6ee02773774b",
