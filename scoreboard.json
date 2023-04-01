@@ -63,6 +63,34 @@
     "latest_solve_time": "2023-04-01T09:56:51.841656+00:00"
   },
   {
+    "user_id": "bab69edb-d8bb-44e3-b46a-e2f7900c23cb",
+    "username": "npit",
+    "score": 12,
+    "num_solves": 3,
+    "latest_solve_time": "2023-04-01T10:00:17.452442+00:00"
+  },
+  {
+    "user_id": "32b10d49-a2eb-46d6-94d3-09e835fa4e89",
+    "username": "Oda",
+    "score": 12,
+    "num_solves": 3,
+    "latest_solve_time": "2023-04-01T10:02:00.439981+00:00"
+  },
+  {
+    "user_id": "8f4969e0-c650-4526-8b68-44d237a67972",
+    "username": "PizzaGutt",
+    "score": 12,
+    "num_solves": 3,
+    "latest_solve_time": "2023-04-01T10:06:19.222813+00:00"
+  },
+  {
+    "user_id": "91cf1a14-203f-4646-9cd4-6052787f453a",
+    "username": "nicw",
+    "score": 12,
+    "num_solves": 3,
+    "latest_solve_time": "2023-04-01T10:08:07.766611+00:00"
+  },
+  {
     "user_id": "b166f766-391a-4a06-91a5-6d12d9265715",
     "username": "mistirri",
     "score": 11,
@@ -196,32 +224,11 @@
     "latest_solve_time": "2023-04-01T09:48:19.112851+00:00"
   },
   {
-    "user_id": "91cf1a14-203f-4646-9cd4-6052787f453a",
-    "username": "nicw",
+    "user_id": "01a3c496-d49f-4686-86d6-dfc8d7871f9a",
+    "username": "c0w",
     "score": 11,
     "num_solves": 2,
-    "latest_solve_time": "2023-04-01T09:52:32.973012+00:00"
-  },
-  {
-    "user_id": "8f4969e0-c650-4526-8b68-44d237a67972",
-    "username": "PizzaGutt",
-    "score": 11,
-    "num_solves": 2,
-    "latest_solve_time": "2023-04-01T09:53:52.353795+00:00"
-  },
-  {
-    "user_id": "32b10d49-a2eb-46d6-94d3-09e835fa4e89",
-    "username": "Oda",
-    "score": 11,
-    "num_solves": 2,
-    "latest_solve_time": "2023-04-01T09:58:16.110571+00:00"
-  },
-  {
-    "user_id": "bab69edb-d8bb-44e3-b46a-e2f7900c23cb",
-    "username": "npit",
-    "score": 11,
-    "num_solves": 2,
-    "latest_solve_time": "2023-04-01T09:59:20.598103+00:00"
+    "latest_solve_time": "2023-04-01T10:00:37.305861+00:00"
   },
   {
     "user_id": "d214e27b-8632-4299-9e8e-7360739048a3",
@@ -656,13 +663,6 @@
     "score": 1,
     "num_solves": 1,
     "latest_solve_time": "2023-03-31T08:51:57.473817+00:00"
-  },
-  {
-    "user_id": "01a3c496-d49f-4686-86d6-dfc8d7871f9a",
-    "username": "c0w",
-    "score": 1,
-    "num_solves": 1,
-    "latest_solve_time": "2023-03-31T09:02:25.382545+00:00"
   },
   {
     "user_id": "4d802501-052c-4b15-8ad0-a2d0251559fa",
