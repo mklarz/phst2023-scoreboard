@@ -322,6 +322,34 @@
     "latest_solve_time": "2023-04-01T11:35:43.499298+00:00"
   },
   {
+    "user_id": "e0465849-5eed-4fb2-a801-20daa505d8f5",
+    "username": "Ewy",
+    "score": 11,
+    "num_solves": 2,
+    "latest_solve_time": "2023-04-01T11:41:54.640692+00:00"
+  },
+  {
+    "user_id": "d2d2cef0-3395-4f50-81c5-deb1a7757ffa",
+    "username": "henoik",
+    "score": 11,
+    "num_solves": 2,
+    "latest_solve_time": "2023-04-01T11:49:03.463335+00:00"
+  },
+  {
+    "user_id": "8550a2f7-4666-49a9-9c12-29cc43633a70",
+    "username": "CoLdAsIcE",
+    "score": 11,
+    "num_solves": 2,
+    "latest_solve_time": "2023-04-01T11:51:40.387111+00:00"
+  },
+  {
+    "user_id": "106da038-97d1-49aa-a60a-343c67359ac3",
+    "username": "vodde",
+    "score": 11,
+    "num_solves": 2,
+    "latest_solve_time": "2023-04-01T11:53:36.89697+00:00"
+  },
+  {
     "user_id": "d214e27b-8632-4299-9e8e-7360739048a3",
     "username": "hal",
     "score": 10,
@@ -369,6 +397,13 @@
     "score": 10,
     "num_solves": 1,
     "latest_solve_time": "2023-04-01T11:12:43.29001+00:00"
+  },
+  {
+    "user_id": "c3639f8f-a9a6-4d3c-a224-6b319e81fe9b",
+    "username": "Eggulf",
+    "score": 10,
+    "num_solves": 1,
+    "latest_solve_time": "2023-04-01T11:53:57.602786+00:00"
   },
   {
     "user_id": "2c568fb7-9cd8-4299-ac70-7d06e9a37c25",
@@ -700,13 +735,6 @@
     "latest_solve_time": "2023-03-31T07:30:26.817303+00:00"
   },
   {
-    "user_id": "106da038-97d1-49aa-a60a-343c67359ac3",
-    "username": "vodde",
-    "score": 1,
-    "num_solves": 1,
-    "latest_solve_time": "2023-03-31T08:09:20.043407+00:00"
-  },
-  {
     "user_id": "ccb7fd50-5a5a-4607-b035-7036fb88e103",
     "username": "Tentom",
     "score": 1,
@@ -854,13 +882,6 @@
     "latest_solve_time": "2023-03-31T13:14:10.466738+00:00"
   },
   {
-    "user_id": "d2d2cef0-3395-4f50-81c5-deb1a7757ffa",
-    "username": "henoik",
-    "score": 1,
-    "num_solves": 1,
-    "latest_solve_time": "2023-03-31T13:32:58.416218+00:00"
-  },
-  {
     "user_id": "78e3633f-de4a-472f-a74e-808bb3777e51",
     "username": "hackerman",
     "score": 1,
@@ -978,13 +999,6 @@
     "score": 1,
     "num_solves": 1,
     "latest_solve_time": "2023-03-31T20:31:27.101846+00:00"
-  },
-  {
-    "user_id": "8550a2f7-4666-49a9-9c12-29cc43633a70",
-    "username": "CoLdAsIcE",
-    "score": 1,
-    "num_solves": 1,
-    "latest_solve_time": "2023-03-31T21:00:05.200109+00:00"
   },
   {
     "user_id": "4285ee2a-a2b4-4620-80a9-d7dc48479f85",
