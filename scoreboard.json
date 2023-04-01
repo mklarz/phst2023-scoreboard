@@ -175,6 +175,13 @@
     "latest_solve_time": "2023-04-01T12:00:35.530098+00:00"
   },
   {
+    "user_id": "b21f6153-212f-428f-b6e4-faa240d6e31e",
+    "username": "InsaneFish",
+    "score": 12,
+    "num_solves": 3,
+    "latest_solve_time": "2023-04-01T12:25:14.125998+00:00"
+  },
+  {
     "user_id": "6812e051-50fc-42e5-a3a3-a6feb83ea6e9",
     "username": "NootNoot",
     "score": 11,
@@ -243,13 +250,6 @@
     "score": 11,
     "num_solves": 2,
     "latest_solve_time": "2023-04-01T09:33:59.529962+00:00"
-  },
-  {
-    "user_id": "b21f6153-212f-428f-b6e4-faa240d6e31e",
-    "username": "InsaneFish",
-    "score": 11,
-    "num_solves": 2,
-    "latest_solve_time": "2023-04-01T09:34:58.740343+00:00"
   },
   {
     "user_id": "716e3c55-2490-4869-b9d3-f014d4793fcf",
@@ -364,6 +364,20 @@
     "latest_solve_time": "2023-04-01T12:11:11.263903+00:00"
   },
   {
+    "user_id": "34bf73d0-a6a2-4177-a48c-1b44f8144e00",
+    "username": "HAL5000Y",
+    "score": 11,
+    "num_solves": 2,
+    "latest_solve_time": "2023-04-01T12:17:24.882422+00:00"
+  },
+  {
+    "user_id": "6c6e9765-6b8c-49f3-903f-ee9bb428a84c",
+    "username": "zanmat0",
+    "score": 11,
+    "num_solves": 2,
+    "latest_solve_time": "2023-04-01T12:25:57.655137+00:00"
+  },
+  {
     "user_id": "d214e27b-8632-4299-9e8e-7360739048a3",
     "username": "hal",
     "score": 10,
@@ -418,6 +432,13 @@
     "score": 10,
     "num_solves": 1,
     "latest_solve_time": "2023-04-01T11:53:57.602786+00:00"
+  },
+  {
+    "user_id": "a963dcc1-875b-4084-8f97-b1d280e957d9",
+    "username": "Oslolosen",
+    "score": 10,
+    "num_solves": 1,
+    "latest_solve_time": "2023-04-01T12:28:47.639817+00:00"
   },
   {
     "user_id": "2c568fb7-9cd8-4299-ac70-7d06e9a37c25",
@@ -656,13 +677,6 @@
     "score": 1,
     "num_solves": 1,
     "latest_solve_time": "2023-03-31T01:04:00.848771+00:00"
-  },
-  {
-    "user_id": "6c6e9765-6b8c-49f3-903f-ee9bb428a84c",
-    "username": "zanmat0",
-    "score": 1,
-    "num_solves": 1,
-    "latest_solve_time": "2023-03-31T01:29:09.491488+00:00"
   },
   {
     "user_id": "76ecb9e3-9f12-4ec9-8d15-712b27c762d9",
@@ -1041,12 +1055,5 @@
     "score": 1,
     "num_solves": 1,
     "latest_solve_time": "2023-04-01T07:45:10.413519+00:00"
-  },
-  {
-    "user_id": "34bf73d0-a6a2-4177-a48c-1b44f8144e00",
-    "username": "HAL5000Y",
-    "score": 1,
-    "num_solves": 1,
-    "latest_solve_time": "2023-04-01T11:36:07.982743+00:00"
   }
 ]
