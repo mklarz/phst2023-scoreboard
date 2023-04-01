@@ -2494,5 +2494,17 @@
     "updated_at": "2023-04-01T08:31:28.829023+00:00",
     "username": "Earthround",
     "valid_from": "2023-04-01T08:41:24"
+  },
+  {
+    "id": "7d9d7d06-a09d-4e05-ae47-9469a52be5ef",
+    "updated_at": "2023-04-01T08:53:24.554781+00:00",
+    "username": "losol",
+    "valid_from": "2023-04-01T08:54:00"
+  },
+  {
+    "id": "68e8f7cd-bd61-4172-8c05-85d6d8d64aa8",
+    "updated_at": "2023-04-01T08:58:32.101387+00:00",
+    "username": "haavardnj",
+    "valid_from": "2023-04-01T08:58:59"
   }
 ]
