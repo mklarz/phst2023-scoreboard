@@ -281,7 +281,7 @@
   },
   {
     "user_id": "e015e2d8-c175-4e5a-8c8c-79e53a7c3b31",
-    "username": "Heitmann",
+    "username": "Heitmann 🇦🇶",
     "score": 12,
     "num_solves": 3,
     "latest_solve_time": "2023-04-01T17:50:53.75412+00:00"
@@ -859,6 +859,13 @@
     "score": 10,
     "num_solves": 1,
     "latest_solve_time": "2023-04-01T21:09:59.447597+00:00"
+  },
+  {
+    "user_id": "7ec57137-3216-46f4-8e33-411c8003cc0c",
+    "username": "Jadda",
+    "score": 10,
+    "num_solves": 1,
+    "latest_solve_time": "2023-04-01T21:28:50.369715+00:00"
   },
   {
     "user_id": "2c568fb7-9cd8-4299-ac70-7d06e9a37c25",
