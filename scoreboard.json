@@ -624,7 +624,7 @@
   },
   {
     "user_id": "60a267ab-582e-4816-b062-94c56485bf8a",
-    "username": "👉 ikke deg, men enfo",
+    "username": "👉 ikke deg, men enfo!",
     "score": 11,
     "num_solves": 2,
     "latest_solve_time": "2023-04-01T18:01:14.986475+00:00"
@@ -775,6 +775,13 @@
     "score": 10,
     "num_solves": 1,
     "latest_solve_time": "2023-04-01T18:31:44.466485+00:00"
+  },
+  {
+    "user_id": "fc2449cf-5532-4e49-ad3b-59920bd222a0",
+    "username": "niebak",
+    "score": 10,
+    "num_solves": 1,
+    "latest_solve_time": "2023-04-01T19:21:37.575763+00:00"
   },
   {
     "user_id": "2c568fb7-9cd8-4299-ac70-7d06e9a37c25",
