@@ -2840,8 +2840,8 @@
   {
     "id": "494a5f31-a0bf-43b9-9004-2ac8a2f650ed",
     "updated_at": "2023-03-30T20:15:39.761786+00:00",
-    "username": "​Jo",
-    "valid_from": "2023-04-02T17:55:52"
+    "username": "Jo​",
+    "valid_from": "2023-04-02T20:53:41"
   },
   {
     "id": "e015e2d8-c175-4e5a-8c8c-79e53a7c3b31",
@@ -3250,5 +3250,11 @@
     "updated_at": "2023-04-02T20:40:31.719178+00:00",
     "username": "DuckyHawk",
     "valid_from": "2023-04-02T20:42:55"
+  },
+  {
+    "id": "1a7ad49f-c9ca-440d-a1e6-09d9da99067b",
+    "updated_at": "2023-04-02T20:45:11.438087+00:00",
+    "username": null,
+    "valid_from": "2023-04-02T20:45:11"
   }
 ]
