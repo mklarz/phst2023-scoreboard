@@ -3238,5 +3238,17 @@
     "updated_at": "2023-04-02T19:44:22.364431+00:00",
     "username": "sakarl",
     "valid_from": "2023-04-02T20:05:32"
+  },
+  {
+    "id": "3a1640ad-5c36-45ca-9608-42a198eb9b35",
+    "updated_at": "2023-04-02T20:36:12.974806+00:00",
+    "username": "fabergas",
+    "valid_from": "2023-04-02T20:39:36"
+  },
+  {
+    "id": "dc7c985c-20df-4fd6-b8bd-0529ac7ad835",
+    "updated_at": "2023-04-02T20:40:31.719178+00:00",
+    "username": "DuckyHawk",
+    "valid_from": "2023-04-02T20:42:55"
   }
 ]
