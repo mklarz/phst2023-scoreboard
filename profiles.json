@@ -3148,5 +3148,17 @@
     "updated_at": "2023-04-02T17:54:07.083832+00:00",
     "username": "Brukernavn",
     "valid_from": "2023-04-02T17:55:03"
+  },
+  {
+    "id": "79e121ed-be46-4481-8b21-dbc95d5f57fe",
+    "updated_at": "2023-04-02T18:01:42.422272+00:00",
+    "username": "dsverre",
+    "valid_from": "2023-04-02T18:05:48"
+  },
+  {
+    "id": "6a9aeb11-13ef-4eb1-a3a4-72177411291a",
+    "updated_at": "2023-04-02T18:12:01.582137+00:00",
+    "username": null,
+    "valid_from": "2023-04-02T18:12:02"
   }
 ]
