@@ -900,12 +900,6 @@
     "valid_from": "2023-03-31T07:18:18"
   },
   {
-    "id": "8ed09c8a-0e76-4623-8a6b-8d3a8e46db7d",
-    "updated_at": "2023-03-31T07:21:54.372759+00:00",
-    "username": null,
-    "valid_from": "2023-03-31T07:21:54"
-  },
-  {
     "id": "144a8f21-63df-4bbb-b63f-0613b1ba2cb0",
     "updated_at": "2023-03-31T07:21:26.62035+00:00",
     "username": "Overtenker",
@@ -2844,6 +2838,12 @@
     "valid_from": "2023-04-02T11:15:19"
   },
   {
+    "id": "8ed09c8a-0e76-4623-8a6b-8d3a8e46db7d",
+    "updated_at": "2023-03-31T07:21:54.372759+00:00",
+    "username": "ic1cle",
+    "valid_from": "2023-04-02T15:55:23"
+  },
+  {
     "id": "e015e2d8-c175-4e5a-8c8c-79e53a7c3b31",
     "updated_at": "2023-04-01T17:13:43.291542+00:00",
     "username": "Heitmann 🇦🇶",
@@ -3106,5 +3106,11 @@
     "updated_at": "2023-04-02T12:48:42.216299+00:00",
     "username": "Anije",
     "valid_from": "2023-04-02T15:44:15"
+  },
+  {
+    "id": "b0f74a67-7dfd-43ea-b3a7-7556ff363249",
+    "updated_at": "2023-04-02T15:51:17.276011+00:00",
+    "username": "Helona",
+    "valid_from": "2023-04-02T15:52:20"
   }
 ]
