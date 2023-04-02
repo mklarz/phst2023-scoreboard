@@ -70,6 +70,13 @@
     "latest_solve_time": "2023-04-02T17:42:58.171602+00:00"
   },
   {
+    "user_id": "ccd16525-043b-4df0-a6ff-17fe8208a688",
+    "username": "Radagast🧙‍♂️",
+    "score": 24,
+    "num_solves": 6,
+    "latest_solve_time": "2023-04-02T19:50:48.371855+00:00"
+  },
+  {
     "user_id": "b21f6153-212f-428f-b6e4-faa240d6e31e",
     "username": "InsaneFish",
     "score": 22,
@@ -166,13 +173,6 @@
     "score": 22,
     "num_solves": 4,
     "latest_solve_time": "2023-04-02T09:13:09.497374+00:00"
-  },
-  {
-    "user_id": "ccd16525-043b-4df0-a6ff-17fe8208a688",
-    "username": "Radagast🧙‍♂️",
-    "score": 22,
-    "num_solves": 4,
-    "latest_solve_time": "2023-04-02T09:13:47.521835+00:00"
   },
   {
     "user_id": "8550a2f7-4666-49a9-9c12-29cc43633a70",
@@ -1001,6 +1001,20 @@
     "latest_solve_time": "2023-04-02T17:29:00.304753+00:00"
   },
   {
+    "user_id": "b80d629b-9cb9-44f0-b691-9db12d800718",
+    "username": "Halvhjertet Fakenick",
+    "score": 12,
+    "num_solves": 3,
+    "latest_solve_time": "2023-04-02T19:46:32.720689+00:00"
+  },
+  {
+    "user_id": "b274f016-ffa0-4de3-939f-3384b85f429e",
+    "username": "tjolahopp",
+    "score": 12,
+    "num_solves": 3,
+    "latest_solve_time": "2023-04-02T19:56:11.596456+00:00"
+  },
+  {
     "user_id": "8f15494e-9ed6-4f50-8566-c8245c6ddfaf",
     "username": "1112016979",
     "score": 11,
@@ -1141,13 +1155,6 @@
     "latest_solve_time": "2023-04-02T18:00:12.436312+00:00"
   },
   {
-    "user_id": "b80d629b-9cb9-44f0-b691-9db12d800718",
-    "username": "Halvhjertet Fakenick",
-    "score": 11,
-    "num_solves": 2,
-    "latest_solve_time": "2023-04-02T19:39:04.67149+00:00"
-  },
-  {
     "user_id": "a8114c08-b8a8-489c-abc2-3ae63fc88ba6",
     "username": "Tørrfisk",
     "score": 10,
@@ -1223,13 +1230,6 @@
     "score": 2,
     "num_solves": 2,
     "latest_solve_time": "2023-04-02T17:02:37.071724+00:00"
-  },
-  {
-    "user_id": "b274f016-ffa0-4de3-939f-3384b85f429e",
-    "username": "tjolahopp",
-    "score": 2,
-    "num_solves": 2,
-    "latest_solve_time": "2023-04-02T19:13:40.94511+00:00"
   },
   {
     "user_id": "2c568fb7-9cd8-4299-ac70-7d06e9a37c25",
