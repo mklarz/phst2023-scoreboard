@@ -3088,5 +3088,17 @@
     "updated_at": "2023-04-01T20:46:41.542509+00:00",
     "username": "SverreRati",
     "valid_from": "2023-04-01T20:47:31"
+  },
+  {
+    "id": "e42aae82-af5d-41e2-9fea-fc7710aad597",
+    "updated_at": "2023-04-02T15:01:00.334567+00:00",
+    "username": null,
+    "valid_from": "2023-04-02T15:01:00"
+  },
+  {
+    "id": "c3f8fb0c-7e1a-4add-940a-e2d7f9130c12",
+    "updated_at": "2023-04-02T15:00:41.298965+00:00",
+    "username": "oscr",
+    "valid_from": "2023-04-02T15:04:26"
   }
 ]
