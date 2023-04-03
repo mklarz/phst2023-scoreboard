@@ -3074,8 +3074,56 @@
   {
     "id": "25ebcd12-9b17-4419-8688-ac031a090b91",
     "updated_at": "2023-04-03T13:14:56.620169+00:00",
+    "username": "Mellom 3 og 25 tegn",
+    "valid_from": "2023-04-03T13:15:44"
+  },
+  {
+    "id": "b06c9177-9c9f-41ae-8ad1-7cbfc7cd943a",
+    "updated_at": "2023-04-03T13:22:07.005967+00:00",
     "username": null,
-    "valid_from": "2023-04-03T13:14:57"
+    "valid_from": "2023-04-03T13:22:07"
+  },
+  {
+    "id": "14e1e7b6-02a3-41db-a2fd-eb49c10addeb",
+    "updated_at": "2023-04-03T13:23:22.122808+00:00",
+    "username": null,
+    "valid_from": "2023-04-03T13:23:22"
+  },
+  {
+    "id": "6666079e-227f-45c7-a203-e73a3a4cede3",
+    "updated_at": "2023-04-03T13:18:49.406874+00:00",
+    "username": "Rynkemannen",
+    "valid_from": "2023-04-03T13:24:07"
+  },
+  {
+    "id": "fb06812e-9d8c-4aef-ab4d-c5fc6fdfd230",
+    "updated_at": "2023-04-03T13:23:38.982485+00:00",
+    "username": "Jay-Z",
+    "valid_from": "2023-04-03T13:24:44"
+  },
+  {
+    "id": "09ce82d1-ad73-4e80-a4a6-fbb8c4259d3a",
+    "updated_at": "2023-04-03T13:25:37.47408+00:00",
+    "username": null,
+    "valid_from": "2023-04-03T13:25:37"
+  },
+  {
+    "id": "f10a14af-9335-4d0c-a647-96f7dc0e2899",
+    "updated_at": "2023-04-03T13:25:45.252666+00:00",
+    "username": null,
+    "valid_from": "2023-04-03T13:25:45"
+  },
+  {
+    "id": "7b754729-8408-4e62-bb6b-099d78abde3f",
+    "updated_at": "2023-04-03T13:26:36.72765+00:00",
+    "username": "natnaelasgedom",
+    "valid_from": "2023-04-03T13:28:02"
+  },
+  {
+    "id": "eaef5553-d629-49ed-b3a4-63a2c550eab0",
+    "updated_at": "2023-04-03T13:27:52.487956+00:00",
+    "username": "ingridwind",
+    "valid_from": "2023-04-03T13:28:31"
   },
   {
     "id": "e015e2d8-c175-4e5a-8c8c-79e53a7c3b31",
