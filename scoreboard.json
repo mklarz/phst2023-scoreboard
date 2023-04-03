@@ -847,6 +847,13 @@
     "latest_solve_time": "2023-04-03T00:24:31.876354+00:00"
   },
   {
+    "user_id": "c3639f8f-a9a6-4d3c-a224-6b319e81fe9b",
+    "username": "Eggulf",
+    "score": 21,
+    "num_solves": 3,
+    "latest_solve_time": "2023-04-03T08:11:51.94445+00:00"
+  },
+  {
     "user_id": "175c5e89-50f5-4a07-9038-bddb3432c667",
     "username": "mztlptlk",
     "score": 20,
@@ -1092,11 +1099,18 @@
     "latest_solve_time": "2023-04-03T06:22:44.461771+00:00"
   },
   {
-    "user_id": "c3639f8f-a9a6-4d3c-a224-6b319e81fe9b",
-    "username": "Eggulf",
+    "user_id": "4f14a315-6185-4dd1-8de3-3faebfa5ffde",
+    "username": "Zahlborg",
     "score": 20,
     "num_solves": 2,
-    "latest_solve_time": "2023-04-03T07:19:39.338641+00:00"
+    "latest_solve_time": "2023-04-03T08:01:23.386058+00:00"
+  },
+  {
+    "user_id": "b2de0a7e-855f-4880-84e1-d705a390160d",
+    "username": "Tryggbert",
+    "score": 20,
+    "num_solves": 2,
+    "latest_solve_time": "2023-04-03T08:03:36.074275+00:00"
   },
   {
     "user_id": "8933c1fd-ae8a-4d6f-869d-d999d839fff5",
@@ -1295,13 +1309,6 @@
     "latest_solve_time": "2023-04-03T06:04:35.038042+00:00"
   },
   {
-    "user_id": "b2de0a7e-855f-4880-84e1-d705a390160d",
-    "username": "Tryggbert",
-    "score": 10,
-    "num_solves": 1,
-    "latest_solve_time": "2023-04-03T07:11:02.44526+00:00"
-  },
-  {
     "user_id": "e6035a7a-0b92-4180-905e-b50cdd79618e",
     "username": "TheRealFatlum",
     "score": 10,
@@ -1314,13 +1321,6 @@
     "score": 10,
     "num_solves": 1,
     "latest_solve_time": "2023-04-03T07:37:55.270669+00:00"
-  },
-  {
-    "user_id": "4f14a315-6185-4dd1-8de3-3faebfa5ffde",
-    "username": "Zahlborg",
-    "score": 10,
-    "num_solves": 1,
-    "latest_solve_time": "2023-04-03T07:50:54.121535+00:00"
   },
   {
     "user_id": "d27c9570-ff02-432a-8ba5-f198f1d8f520",
@@ -1657,5 +1657,12 @@
     "score": 1,
     "num_solves": 1,
     "latest_solve_time": "2023-04-02T22:40:00.816716+00:00"
+  },
+  {
+    "user_id": "7d9d7d06-a09d-4e05-ae47-9469a52be5ef",
+    "username": "losol",
+    "score": 1,
+    "num_solves": 1,
+    "latest_solve_time": "2023-04-03T08:12:51.990618+00:00"
   }
 ]
