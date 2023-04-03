@@ -3346,5 +3346,11 @@
     "updated_at": "2023-04-03T02:02:00.434119+00:00",
     "username": "Kash",
     "valid_from": "2023-04-03T02:02:33"
+  },
+  {
+    "id": "ed2e4251-7afe-4b46-a3b1-1a26afc4dd8d",
+    "updated_at": "2023-04-03T04:37:54.549726+00:00",
+    "username": null,
+    "valid_from": "2023-04-03T04:37:55"
   }
 ]
