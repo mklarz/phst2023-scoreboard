@@ -4266,10 +4266,22 @@
     "valid_from": "2023-04-04T07:39:20"
   },
   {
+    "id": "a53b602c-1d45-4ac8-9baf-5ad6be06df5f",
+    "updated_at": "2023-04-04T10:02:41.737994+00:00",
+    "username": "TrossAlt",
+    "valid_from": "2023-04-04T10:03:04"
+  },
+  {
     "id": "6b5314f0-3fc1-4d8f-b97c-2daf396c6e02",
     "updated_at": "2023-04-04T07:39:37.255371+00:00",
     "username": "Perkko",
     "valid_from": "2023-04-04T07:40:19"
+  },
+  {
+    "id": "50d60d43-371f-43d7-a52d-66534be16f7b",
+    "updated_at": "2023-04-04T10:03:46.202601+00:00",
+    "username": null,
+    "valid_from": "2023-04-04T10:03:46"
   },
   {
     "id": "9df7ab4f-1d0d-4d82-9633-e541d4478706",
