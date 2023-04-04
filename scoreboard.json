@@ -14,13 +14,6 @@
     "latest_solve_time": "2023-04-04T09:56:14.950465+00:00"
   },
   {
-    "user_id": "b80d629b-9cb9-44f0-b691-9db12d800718",
-    "username": "Halvhjertet Fakenick",
-    "score": 43,
-    "num_solves": 7,
-    "latest_solve_time": "2023-04-04T09:08:01.627121+00:00"
-  },
-  {
     "user_id": "da2dc6a7-cf7d-44b4-8636-6f6b68e9526e",
     "username": "Dionysios",
     "score": 43,
@@ -40,6 +33,20 @@
     "score": 42,
     "num_solves": 6,
     "latest_solve_time": "2023-04-04T09:12:03.94135+00:00"
+  },
+  {
+    "user_id": "c3639f8f-a9a6-4d3c-a224-6b319e81fe9b",
+    "username": "Eggulf",
+    "score": 42,
+    "num_solves": 6,
+    "latest_solve_time": "2023-04-04T10:43:54.125275+00:00"
+  },
+  {
+    "user_id": "175c5e89-50f5-4a07-9038-bddb3432c667",
+    "username": "mztlptlk",
+    "score": 40,
+    "num_solves": 4,
+    "latest_solve_time": "2023-04-04T10:42:39.885176+00:00"
   },
   {
     "user_id": "494a5f31-a0bf-43b9-9004-2ac8a2f650ed",
@@ -425,13 +432,6 @@
     "score": 32,
     "num_solves": 5,
     "latest_solve_time": "2023-04-03T13:09:35.924028+00:00"
-  },
-  {
-    "user_id": "c3639f8f-a9a6-4d3c-a224-6b319e81fe9b",
-    "username": "Eggulf",
-    "score": 32,
-    "num_solves": 5,
-    "latest_solve_time": "2023-04-03T13:17:24.82192+00:00"
   },
   {
     "user_id": "1772c6d7-2393-43d9-b8fd-3c031b53512c",
@@ -1013,13 +1013,6 @@
     "score": 30,
     "num_solves": 3,
     "latest_solve_time": "2023-04-03T09:42:46.084424+00:00"
-  },
-  {
-    "user_id": "175c5e89-50f5-4a07-9038-bddb3432c667",
-    "username": "mztlptlk",
-    "score": 30,
-    "num_solves": 3,
-    "latest_solve_time": "2023-04-03T09:47:09.575864+00:00"
   },
   {
     "user_id": "7ec57137-3216-46f4-8e33-411c8003cc0c",
@@ -2021,5 +2014,12 @@
     "score": 1,
     "num_solves": 1,
     "latest_solve_time": "2023-04-03T18:40:00.309349+00:00"
+  },
+  {
+    "user_id": "68ac78c1-ddc0-4b7f-8795-6d7f05afaec9",
+    "username": "Solver",
+    "score": 1,
+    "num_solves": 1,
+    "latest_solve_time": "2023-04-04T10:37:34.062151+00:00"
   }
 ]
