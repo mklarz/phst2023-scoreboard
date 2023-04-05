@@ -4720,5 +4720,17 @@
     "updated_at": "2023-04-05T04:56:40.271131+00:00",
     "username": "Eeyore",
     "valid_from": "2023-04-05T05:04:58"
+  },
+  {
+    "id": "f8bd38ea-e480-435d-8af3-d19cc76979ff",
+    "updated_at": "2023-04-05T05:21:10.061752+00:00",
+    "username": "lm2rsvold",
+    "valid_from": "2023-04-05T05:22:10"
+  },
+  {
+    "id": "06774e47-2f74-49fd-892e-c04319a2f481",
+    "updated_at": "2023-04-05T05:25:13.91542+00:00",
+    "username": "Johannes",
+    "valid_from": "2023-04-05T05:25:42"
   }
 ]
