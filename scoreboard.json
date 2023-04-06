@@ -1760,8 +1760,8 @@
     "user_id": "fe9bdd04-b496-4eb2-ad43-e038de5b4fe6",
     "username": "loder",
     "score": 21,
-    "num_solves": 24,
-    "latest_solve_time": "2023-04-06T21:29:45.14041+00:00"
+    "num_solves": 25,
+    "latest_solve_time": "2023-04-06T21:39:26.15844+00:00"
   },
   {
     "user_id": "7f3594d5-fb26-46e8-9c7f-910f041af28a",
@@ -2448,6 +2448,13 @@
     "score": 0,
     "num_solves": 2,
     "latest_solve_time": "2023-04-02T18:26:37.052769+00:00"
+  },
+  {
+    "user_id": "f3dcb4e6-aa6d-4bcd-b470-d5bd32de4bb4",
+    "username": "forgetfulisak",
+    "score": 0,
+    "num_solves": 3,
+    "latest_solve_time": "2023-04-06T21:35:02.850198+00:00"
   },
   {
     "user_id": "b5b74282-20b9-4d8c-a6dd-d3b935f5eec0",
