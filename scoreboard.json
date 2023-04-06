@@ -161,13 +161,6 @@
     "latest_solve_time": "2023-04-05T14:29:18.970731+00:00"
   },
   {
-    "user_id": "85b72201-870d-499e-8e41-8c78f923f3cc",
-    "username": "JackNapier",
-    "score": 52,
-    "num_solves": 8,
-    "latest_solve_time": "2023-04-05T20:32:23.545189+00:00"
-  },
-  {
     "user_id": "2d86f1ad-28b8-495d-bed6-f87e3fe9de56",
     "username": "TubaLuba",
     "score": 52,
@@ -187,6 +180,13 @@
     "score": 52,
     "num_solves": 9,
     "latest_solve_time": "2023-04-05T10:42:25.421081+00:00"
+  },
+  {
+    "user_id": "85b72201-870d-499e-8e41-8c78f923f3cc",
+    "username": "JackNapier",
+    "score": 52,
+    "num_solves": 9,
+    "latest_solve_time": "2023-04-06T12:09:57.970721+00:00"
   },
   {
     "user_id": "88f7a589-2dcb-4f3a-8dd7-1a69f369e876",
@@ -245,13 +245,6 @@
     "latest_solve_time": "2023-04-06T10:22:03.628601+00:00"
   },
   {
-    "user_id": "4e6b5653-e840-4fff-8974-0f88e070e869",
-    "username": "zup",
-    "score": 52,
-    "num_solves": 14,
-    "latest_solve_time": "2023-04-05T10:29:23.317025+00:00"
-  },
-  {
     "user_id": "8f4969e0-c650-4526-8b68-44d237a67972",
     "username": "PizzaGutt",
     "score": 52,
@@ -273,6 +266,13 @@
     "latest_solve_time": "2023-04-05T17:25:03.685956+00:00"
   },
   {
+    "user_id": "4e6b5653-e840-4fff-8974-0f88e070e869",
+    "username": "zup",
+    "score": 52,
+    "num_solves": 15,
+    "latest_solve_time": "2023-04-06T12:06:26.988679+00:00"
+  },
+  {
     "user_id": "926a6550-9843-4f81-901b-6903244df0b1",
     "username": "eriknn",
     "score": 52,
@@ -292,6 +292,13 @@
     "score": 52,
     "num_solves": 17,
     "latest_solve_time": "2023-04-05T09:02:34.796157+00:00"
+  },
+  {
+    "user_id": "494a5f31-a0bf-43b9-9004-2ac8a2f650ed",
+    "username": "Joey",
+    "score": 52,
+    "num_solves": 19,
+    "latest_solve_time": "2023-04-06T12:01:12.067778+00:00"
   },
   {
     "user_id": "9beb593c-6633-4a6d-8b72-5ef64bee0c0c",
@@ -628,13 +635,6 @@
     "score": 42,
     "num_solves": 18,
     "latest_solve_time": "2023-04-05T19:13:46.494961+00:00"
-  },
-  {
-    "user_id": "494a5f31-a0bf-43b9-9004-2ac8a2f650ed",
-    "username": "Joey",
-    "score": 42,
-    "num_solves": 18,
-    "latest_solve_time": "2023-04-06T11:19:04.545281+00:00"
   },
   {
     "user_id": "cea2bab7-fc4f-40f8-9d68-f2acf34d483e",
