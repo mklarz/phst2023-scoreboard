@@ -4632,12 +4632,6 @@
     "valid_from": "2023-04-04T18:56:29"
   },
   {
-    "id": "2e7df2f5-e6a3-41fa-a17d-c20932693fd8",
-    "updated_at": "2023-04-04T18:59:19.30419+00:00",
-    "username": null,
-    "valid_from": "2023-04-04T18:59:19"
-  },
-  {
     "id": "b50556be-e24b-43f5-a071-a3d4ed023cf5",
     "updated_at": "2023-04-04T18:59:19.651177+00:00",
     "username": "Laud Media",
@@ -5668,6 +5662,18 @@
     "updated_at": "2023-04-06T15:40:48.061838+00:00",
     "username": "hanheterfab",
     "valid_from": "2023-04-06T15:41:22"
+  },
+  {
+    "id": "2e7df2f5-e6a3-41fa-a17d-c20932693fd8",
+    "updated_at": "2023-04-04T18:59:19.30419+00:00",
+    "username": "dagfiand",
+    "valid_from": "2023-04-06T19:52:19"
+  },
+  {
+    "id": "749d0a19-13e1-4046-9bb9-3d71049c1ecb",
+    "updated_at": "2023-04-06T19:58:56.276751+00:00",
+    "username": "Jokost",
+    "valid_from": "2023-04-06T19:59:43"
   },
   {
     "id": "d90957db-f861-4b29-b188-60ff2c3baf5b",
