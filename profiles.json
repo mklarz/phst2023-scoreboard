@@ -5460,9 +5460,27 @@
     "valid_from": "2023-04-06T13:44:15"
   },
   {
+    "id": "13c8aab5-ffdb-4076-9a06-56bad58b69b9",
+    "updated_at": "2023-04-06T13:45:04.263673+00:00",
+    "username": null,
+    "valid_from": "2023-04-06T13:45:04"
+  },
+  {
     "id": "6bf04860-ce45-41eb-85b4-db0d76abc7b2",
     "updated_at": "2023-04-06T13:44:23.401964+00:00",
-    "username": null,
-    "valid_from": "2023-04-06T13:44:23"
+    "username": "Snaskebusken",
+    "valid_from": "2023-04-06T13:47:01"
+  },
+  {
+    "id": "e524b886-7b35-41d1-ba7e-1792f98d6073",
+    "updated_at": "2023-04-06T13:46:06.297385+00:00",
+    "username": "Sist men ikke minst",
+    "valid_from": "2023-04-06T13:46:52"
+  },
+  {
+    "id": "c2e1d16e-1079-4543-819b-7d6b88f16806",
+    "updated_at": "2023-04-06T13:46:31.721333+00:00",
+    "username": "frknly",
+    "valid_from": "2023-04-06T13:58:48"
   }
 ]

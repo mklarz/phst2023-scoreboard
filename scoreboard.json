@@ -308,6 +308,13 @@
     "latest_solve_time": "2023-04-05T09:02:34.796157+00:00"
   },
   {
+    "user_id": "2bfb2293-f606-4115-bb6e-6a3ad682b8c4",
+    "username": "josvik",
+    "score": 52,
+    "num_solves": 19,
+    "latest_solve_time": "2023-04-06T13:47:14.892041+00:00"
+  },
+  {
     "user_id": "9beb593c-6633-4a6d-8b72-5ef64bee0c0c",
     "username": "0xbace",
     "score": 52,
@@ -658,13 +665,6 @@
     "latest_solve_time": "2023-04-05T09:48:41.500739+00:00"
   },
   {
-    "user_id": "2bfb2293-f606-4115-bb6e-6a3ad682b8c4",
-    "username": "josvik",
-    "score": 42,
-    "num_solves": 18,
-    "latest_solve_time": "2023-04-05T19:13:46.494961+00:00"
-  },
-  {
     "user_id": "cea2bab7-fc4f-40f8-9d68-f2acf34d483e",
     "username": "zigkill",
     "score": 42,
@@ -763,13 +763,6 @@
     "latest_solve_time": "2023-04-05T17:51:30.863218+00:00"
   },
   {
-    "user_id": "5aa96e2b-124d-4836-83c6-8a688dd9ef23",
-    "username": "Georg",
-    "score": 41,
-    "num_solves": 10,
-    "latest_solve_time": "2023-04-05T19:39:26.845873+00:00"
-  },
-  {
     "user_id": "ce410eb4-153c-4891-a607-51c031c38b42",
     "username": "JPT",
     "score": 41,
@@ -789,6 +782,13 @@
     "score": 41,
     "num_solves": 11,
     "latest_solve_time": "2023-04-06T10:29:05.522573+00:00"
+  },
+  {
+    "user_id": "5aa96e2b-124d-4836-83c6-8a688dd9ef23",
+    "username": "Georg",
+    "score": 41,
+    "num_solves": 11,
+    "latest_solve_time": "2023-04-06T13:45:40.568615+00:00"
   },
   {
     "user_id": "db085fab-5082-4341-9184-377b985af3b1",
@@ -1515,8 +1515,8 @@
     "user_id": "133ffab7-26d7-463b-9166-c3119ec26485",
     "username": "Knut",
     "score": 30,
-    "num_solves": 18,
-    "latest_solve_time": "2023-04-06T13:44:12.377224+00:00"
+    "num_solves": 21,
+    "latest_solve_time": "2023-04-06T13:50:17.49586+00:00"
   },
   {
     "user_id": "f0d09d18-fd38-4c17-b4fe-f8e6fd55e62b",
@@ -2420,5 +2420,12 @@
     "score": 0,
     "num_solves": 7,
     "latest_solve_time": "2023-04-04T19:07:47.275448+00:00"
+  },
+  {
+    "user_id": "e524b886-7b35-41d1-ba7e-1792f98d6073",
+    "username": "Sist men ikke minst",
+    "score": 0,
+    "num_solves": 108,
+    "latest_solve_time": "2023-04-06T13:59:59.90567+00:00"
   }
 ]
