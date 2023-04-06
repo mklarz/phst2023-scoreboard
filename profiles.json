@@ -5202,15 +5202,15 @@
     "valid_from": "2023-04-06T07:43:55"
   },
   {
-    "id": "144d9eea-0cf0-44c2-807e-4b707bf7c2f1",
-    "updated_at": "2023-04-06T07:49:21.793186+00:00",
-    "username": null,
-    "valid_from": "2023-04-06T07:49:22"
-  },
-  {
     "id": "6bc7466f-91e6-4f61-a36b-afcf995e77fd",
     "updated_at": "2023-04-05T20:50:34.283205+00:00",
     "username": "poteten",
     "valid_from": "2023-04-06T07:59:57"
+  },
+  {
+    "id": "144d9eea-0cf0-44c2-807e-4b707bf7c2f1",
+    "updated_at": "2023-04-06T07:49:21.793186+00:00",
+    "username": "tymm",
+    "valid_from": "2023-04-06T08:13:21"
   }
 ]
