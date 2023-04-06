@@ -294,6 +294,13 @@
     "latest_solve_time": "2023-04-06T19:40:30.065817+00:00"
   },
   {
+    "user_id": "af2e408b-1528-44ba-88e1-37c2ac01edf9",
+    "username": "skh",
+    "score": 61,
+    "num_solves": 7,
+    "latest_solve_time": "2023-04-06T20:59:30.926645+00:00"
+  },
+  {
     "user_id": "45fe91f0-ff77-4f2e-a121-e633a4f44453",
     "username": "Amongus",
     "score": 61,
@@ -567,25 +574,18 @@
     "latest_solve_time": "2023-04-05T10:27:38.766497+00:00"
   },
   {
-    "user_id": "af2e408b-1528-44ba-88e1-37c2ac01edf9",
-    "username": "skh",
-    "score": 50,
-    "num_solves": 5,
-    "latest_solve_time": "2023-04-05T09:18:20.845438+00:00"
-  },
-  {
-    "user_id": "d214e27b-8632-4299-9e8e-7360739048a3",
-    "username": "hal",
-    "score": 50,
-    "num_solves": 5,
-    "latest_solve_time": "2023-04-05T13:12:40.503081+00:00"
-  },
-  {
     "user_id": "2c916282-4dec-41d9-bbe3-130a6e3e34b0",
     "username": "c0ffee",
     "score": 50,
     "num_solves": 5,
     "latest_solve_time": "2023-04-06T17:55:35.25803+00:00"
+  },
+  {
+    "user_id": "d214e27b-8632-4299-9e8e-7360739048a3",
+    "username": "hal",
+    "score": 50,
+    "num_solves": 6,
+    "latest_solve_time": "2023-04-06T20:54:58.070785+00:00"
   },
   {
     "user_id": "8c5f01d8-7807-4d4d-84a9-bb1074c16de6",
@@ -1960,13 +1960,6 @@
     "latest_solve_time": "2023-04-05T04:27:50.354466+00:00"
   },
   {
-    "user_id": "c1540577-b212-4b38-bb04-7d09cdde9465",
-    "username": "Chris01J",
-    "score": 11,
-    "num_solves": 2,
-    "latest_solve_time": "2023-04-06T20:28:30.070095+00:00"
-  },
-  {
     "user_id": "c17a6eb9-b23d-4d0a-bff4-ab7da75c77eb",
     "username": "ragev",
     "score": 11,
@@ -1979,6 +1972,13 @@
     "score": 11,
     "num_solves": 3,
     "latest_solve_time": "2023-04-03T18:44:45.999246+00:00"
+  },
+  {
+    "user_id": "c1540577-b212-4b38-bb04-7d09cdde9465",
+    "username": "Chris01J",
+    "score": 11,
+    "num_solves": 3,
+    "latest_solve_time": "2023-04-06T20:52:34.524819+00:00"
   },
   {
     "user_id": "d2d2cef0-3395-4f50-81c5-deb1a7757ffa",
