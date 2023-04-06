@@ -5472,6 +5472,12 @@
     "valid_from": "2023-04-06T13:47:01"
   },
   {
+    "id": "718659d7-36e8-4125-bcbb-82c36a4326f4",
+    "updated_at": "2023-04-06T14:28:35.861634+00:00",
+    "username": null,
+    "valid_from": "2023-04-06T14:28:36"
+  },
+  {
     "id": "e524b886-7b35-41d1-ba7e-1792f98d6073",
     "updated_at": "2023-04-06T13:46:06.297385+00:00",
     "username": "Sist men ikke minst",
@@ -5494,5 +5500,11 @@
     "updated_at": "2023-04-06T14:10:14.394712+00:00",
     "username": "Abjerkoy",
     "valid_from": "2023-04-06T14:13:00"
+  },
+  {
+    "id": "9ae9c0b8-09a9-440a-82fb-66fdcf927a39",
+    "updated_at": "2023-04-06T14:18:41.03281+00:00",
+    "username": "DassSporenfinner",
+    "valid_from": "2023-04-06T14:20:01"
   }
 ]
