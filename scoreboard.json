@@ -630,18 +630,18 @@
     "latest_solve_time": "2023-04-05T18:00:26.568614+00:00"
   },
   {
-    "user_id": "acefdd42-d050-4652-b9fd-9c38d76cb62e",
-    "username": "b9AefvB6",
-    "score": 42,
-    "num_solves": 10,
-    "latest_solve_time": "2023-04-05T19:13:23.881074+00:00"
-  },
-  {
     "user_id": "8b070782-8e09-4442-b3d0-214ea117aa78",
     "username": "Wazzah",
     "score": 42,
     "num_solves": 11,
     "latest_solve_time": "2023-04-05T15:35:22.243963+00:00"
+  },
+  {
+    "user_id": "acefdd42-d050-4652-b9fd-9c38d76cb62e",
+    "username": "b9AefvB6",
+    "score": 42,
+    "num_solves": 11,
+    "latest_solve_time": "2023-04-06T16:57:54.795257+00:00"
   },
   {
     "user_id": "6d1113bf-5282-4fb8-8c8e-2340d6aad3f9",
