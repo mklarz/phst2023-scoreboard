@@ -2166,6 +2166,12 @@
     "valid_from": "2023-03-31T17:51:35"
   },
   {
+    "id": "ad46a5d8-9aca-49ee-a9be-101a8880e0e2",
+    "updated_at": "2023-03-31T17:28:29.138656+00:00",
+    "username": "rovsvamp",
+    "valid_from": "2023-04-06T11:38:46"
+  },
+  {
     "id": "f15943fa-de77-4d24-82f4-c70a42afbd42",
     "updated_at": "2023-03-31T18:03:02.254212+00:00",
     "username": "ctd",
@@ -2464,12 +2470,6 @@
     "updated_at": "2023-04-01T08:58:32.101387+00:00",
     "username": "haavardnj",
     "valid_from": "2023-04-01T08:58:59"
-  },
-  {
-    "id": "ad46a5d8-9aca-49ee-a9be-101a8880e0e2",
-    "updated_at": "2023-03-31T17:28:29.138656+00:00",
-    "username": "Galactus",
-    "valid_from": "2023-04-01T09:01:58"
   },
   {
     "id": "d7abf3de-da46-401c-b389-21408e47b749",
@@ -2824,12 +2824,6 @@
     "updated_at": "2023-04-02T10:08:15.260696+00:00",
     "username": null,
     "valid_from": "2023-04-02T10:08:15"
-  },
-  {
-    "id": "494a5f31-a0bf-43b9-9004-2ac8a2f650ed",
-    "updated_at": "2023-03-30T20:15:39.761786+00:00",
-    "username": "Joey",
-    "valid_from": "2023-04-04T17:04:29"
   },
   {
     "id": "3e70fed8-16dc-4ac1-863a-752507fc6951",
@@ -5398,5 +5392,17 @@
     "updated_at": "2023-04-06T11:12:01.107046+00:00",
     "username": null,
     "valid_from": "2023-04-06T11:12:01"
+  },
+  {
+    "id": "2be46f09-253c-4888-970d-7968fc5ed81b",
+    "updated_at": "2023-04-06T11:31:34.453615+00:00",
+    "username": "Fenriken",
+    "valid_from": "2023-04-06T11:32:13"
+  },
+  {
+    "id": "494a5f31-a0bf-43b9-9004-2ac8a2f650ed",
+    "updated_at": "2023-03-30T20:15:39.761786+00:00",
+    "username": "Joey",
+    "valid_from": "2023-04-06T11:43:39"
   }
 ]
