@@ -574,6 +574,13 @@
     "latest_solve_time": "2023-04-07T18:58:48.212462+00:00"
   },
   {
+    "user_id": "54ba652d-8cae-4c02-a3c1-0825b0aae74b",
+    "username": "fibo",
+    "score": 52,
+    "num_solves": 7,
+    "latest_solve_time": "2023-04-07T19:28:39.977547+00:00"
+  },
+  {
     "user_id": "c900d243-55b9-419f-844e-6d42db9e78f8",
     "username": "🎓 Fireholt",
     "score": 51,
@@ -698,13 +705,6 @@
     "score": 42,
     "num_solves": 6,
     "latest_solve_time": "2023-04-05T09:05:54.023642+00:00"
-  },
-  {
-    "user_id": "54ba652d-8cae-4c02-a3c1-0825b0aae74b",
-    "username": "fibo",
-    "score": 42,
-    "num_solves": 6,
-    "latest_solve_time": "2023-04-05T09:47:14.966275+00:00"
   },
   {
     "user_id": "65692756-1458-48de-8bb4-986c50da0d7b",
