@@ -868,13 +868,6 @@
     "latest_solve_time": "2023-04-05T11:47:11.461273+00:00"
   },
   {
-    "user_id": "5aa96e2b-124d-4836-83c6-8a688dd9ef23",
-    "username": "Georg",
-    "score": 41,
-    "num_solves": 17,
-    "latest_solve_time": "2023-04-07T17:10:49.287082+00:00"
-  },
-  {
     "user_id": "b5f5045a-d81e-4954-b53b-0b34f55907cf",
     "username": "Brole",
     "score": 41,
@@ -901,6 +894,13 @@
     "score": 41,
     "num_solves": 21,
     "latest_solve_time": "2023-04-05T21:30:07.901098+00:00"
+  },
+  {
+    "user_id": "5aa96e2b-124d-4836-83c6-8a688dd9ef23",
+    "username": "Georg",
+    "score": 41,
+    "num_solves": 22,
+    "latest_solve_time": "2023-04-07T17:18:54.220343+00:00"
   },
   {
     "user_id": "0c58c761-e340-43ba-ba50-7f0319ee8241",
@@ -1279,6 +1279,13 @@
     "score": 31,
     "num_solves": 6,
     "latest_solve_time": "2023-04-07T16:56:09.105197+00:00"
+  },
+  {
+    "user_id": "60fef489-f74c-472f-b5b1-9ac2074b801e",
+    "username": "Abjerkoy",
+    "score": 31,
+    "num_solves": 6,
+    "latest_solve_time": "2023-04-07T17:16:37.937808+00:00"
   },
   {
     "user_id": "4475b907-5ab8-456d-bf90-507e00df7292",
@@ -1743,11 +1750,11 @@
     "latest_solve_time": "2023-04-02T13:46:08.935305+00:00"
   },
   {
-    "user_id": "60fef489-f74c-472f-b5b1-9ac2074b801e",
-    "username": "Abjerkoy",
+    "user_id": "05c0a3a5-6f1b-4da6-a2a6-c651c18b1a02",
+    "username": "Cicada3301",
     "score": 21,
-    "num_solves": 5,
-    "latest_solve_time": "2023-04-07T17:02:59.058029+00:00"
+    "num_solves": 6,
+    "latest_solve_time": "2023-04-07T17:26:17.140861+00:00"
   },
   {
     "user_id": "6e920f2e-afe2-432b-957d-4a15e3a16bf9",
@@ -2142,6 +2149,13 @@
     "latest_solve_time": "2023-04-07T13:17:49.671121+00:00"
   },
   {
+    "user_id": "6c989510-c3e6-4ae1-b5ee-d6b14b965379",
+    "username": "trygvda",
+    "score": 10,
+    "num_solves": 2,
+    "latest_solve_time": "2023-04-07T17:29:36.132544+00:00"
+  },
+  {
     "user_id": "1b8d218d-0d83-4ddd-a16c-31ad6c7c69f3",
     "username": "grantre",
     "score": 10,
@@ -2427,13 +2441,6 @@
     "score": 1,
     "num_solves": 3,
     "latest_solve_time": "2023-04-04T22:29:52.100406+00:00"
-  },
-  {
-    "user_id": "05c0a3a5-6f1b-4da6-a2a6-c651c18b1a02",
-    "username": "Cicada3301",
-    "score": 1,
-    "num_solves": 4,
-    "latest_solve_time": "2023-04-07T17:04:48.217113+00:00"
   },
   {
     "user_id": "2c568fb7-9cd8-4299-ac70-7d06e9a37c25",
