@@ -5988,15 +5988,27 @@
     "valid_from": "2023-04-07T10:46:10"
   },
   {
-    "id": "dd9bcb28-6c32-43f0-a5f5-2edc34f9f2f9",
-    "updated_at": "2023-04-07T11:10:15.527935+00:00",
-    "username": null,
-    "valid_from": "2023-04-07T11:10:16"
-  },
-  {
     "id": "e2652ee2-5990-47f1-a2dc-5be9f5bfc25b",
     "updated_at": "2023-04-07T11:11:43.055509+00:00",
     "username": "omi",
     "valid_from": "2023-04-07T11:12:55"
+  },
+  {
+    "id": "19112bf5-8eaf-4eec-a2e2-ebc85b143f62",
+    "updated_at": "2023-04-07T11:17:10.536467+00:00",
+    "username": "DenRaskeHaren",
+    "valid_from": "2023-04-07T11:18:02"
+  },
+  {
+    "id": "dd9bcb28-6c32-43f0-a5f5-2edc34f9f2f9",
+    "updated_at": "2023-04-07T11:10:15.527935+00:00",
+    "username": "kaividar@live.no",
+    "valid_from": "2023-04-07T11:23:19"
+  },
+  {
+    "id": "36081d66-1577-436d-a4a2-9209a7d74e91",
+    "updated_at": "2023-04-07T11:26:34.021971+00:00",
+    "username": null,
+    "valid_from": "2023-04-07T11:26:34"
   }
 ]
