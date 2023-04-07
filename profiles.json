@@ -6000,15 +6000,21 @@
     "valid_from": "2023-04-07T11:18:02"
   },
   {
-    "id": "dd9bcb28-6c32-43f0-a5f5-2edc34f9f2f9",
-    "updated_at": "2023-04-07T11:10:15.527935+00:00",
-    "username": "kaividar@live.no",
-    "valid_from": "2023-04-07T11:23:19"
-  },
-  {
     "id": "36081d66-1577-436d-a4a2-9209a7d74e91",
     "updated_at": "2023-04-07T11:26:34.021971+00:00",
     "username": null,
     "valid_from": "2023-04-07T11:26:34"
+  },
+  {
+    "id": "8929c157-99df-4988-97fe-5b5847630243",
+    "updated_at": "2023-04-07T11:30:12.267112+00:00",
+    "username": null,
+    "valid_from": "2023-04-07T11:30:12"
+  },
+  {
+    "id": "dd9bcb28-6c32-43f0-a5f5-2edc34f9f2f9",
+    "updated_at": "2023-04-07T11:10:15.527935+00:00",
+    "username": "SkaiSmurf",
+    "valid_from": "2023-04-07T11:37:48"
   }
 ]
