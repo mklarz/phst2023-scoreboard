@@ -105,6 +105,13 @@
     "latest_solve_time": "2023-04-07T19:13:02.315343+00:00"
   },
   {
+    "user_id": "2bfb2293-f606-4115-bb6e-6a3ad682b8c4",
+    "username": "josvik",
+    "score": 72,
+    "num_solves": 9,
+    "latest_solve_time": "2023-04-07T19:38:44.654515+00:00"
+  },
+  {
     "user_id": "db24c43b-b6ab-43c8-9116-87b1d45229ce",
     "username": "tobyrama",
     "score": 71,
@@ -301,13 +308,6 @@
     "latest_solve_time": "2023-04-06T20:43:32.21987+00:00"
   },
   {
-    "user_id": "2bfb2293-f606-4115-bb6e-6a3ad682b8c4",
-    "username": "josvik",
-    "score": 62,
-    "num_solves": 8,
-    "latest_solve_time": "2023-04-06T21:54:21.349442+00:00"
-  },
-  {
     "user_id": "d560da16-0f98-4d08-aa5d-d143ce35f120",
     "username": "tronderhack",
     "score": 62,
@@ -418,6 +418,13 @@
     "score": 60,
     "num_solves": 6,
     "latest_solve_time": "2023-04-07T16:26:43.085836+00:00"
+  },
+  {
+    "user_id": "53c5c77b-df2d-4436-ba68-def79c4976de",
+    "username": "nịikọo1337",
+    "score": 60,
+    "num_solves": 6,
+    "latest_solve_time": "2023-04-07T19:43:29.322493+00:00"
   },
   {
     "user_id": "2d86f1ad-28b8-495d-bed6-f87e3fe9de56",
@@ -672,11 +679,11 @@
     "latest_solve_time": "2023-04-06T17:55:35.25803+00:00"
   },
   {
-    "user_id": "53c5c77b-df2d-4436-ba68-def79c4976de",
-    "username": "nịikọo1337",
+    "user_id": "1a2c10e3-e9b1-4df1-bdbf-3b1845da5a64",
+    "username": "Snorris",
     "score": 50,
     "num_solves": 5,
-    "latest_solve_time": "2023-04-07T17:49:12.877614+00:00"
+    "latest_solve_time": "2023-04-07T19:44:14.584063+00:00"
   },
   {
     "user_id": "f60e2fb0-6405-4b39-8d78-001270f9152a",
@@ -943,13 +950,6 @@
     "score": 40,
     "num_solves": 4,
     "latest_solve_time": "2023-04-05T21:09:04.254858+00:00"
-  },
-  {
-    "user_id": "1a2c10e3-e9b1-4df1-bdbf-3b1845da5a64",
-    "username": "Snorris",
-    "score": 40,
-    "num_solves": 4,
-    "latest_solve_time": "2023-04-05T22:36:36.945024+00:00"
   },
   {
     "user_id": "1c461b36-b314-421c-a50b-544018ba2212",
