@@ -6346,5 +6346,11 @@
     "updated_at": "2023-04-07T20:51:16.555652+00:00",
     "username": "traktorbajs",
     "valid_from": "2023-04-07T20:51:59"
+  },
+  {
+    "id": "db2f1133-b39e-4768-add2-746080da94ff",
+    "updated_at": "2023-04-07T21:13:46.790131+00:00",
+    "username": null,
+    "valid_from": "2023-04-07T21:13:47"
   }
 ]
