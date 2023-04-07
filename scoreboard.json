@@ -210,6 +210,13 @@
     "latest_solve_time": "2023-04-06T15:50:53.501358+00:00"
   },
   {
+    "user_id": "bab69edb-d8bb-44e3-b46a-e2f7900c23cb",
+    "username": "npit",
+    "score": 62,
+    "num_solves": 18,
+    "latest_solve_time": "2023-04-07T15:10:08.980439+00:00"
+  },
+  {
     "user_id": "494a5f31-a0bf-43b9-9004-2ac8a2f650ed",
     "username": "Joey",
     "score": 62,
@@ -504,13 +511,6 @@
     "latest_solve_time": "2023-04-07T08:33:45.108757+00:00"
   },
   {
-    "user_id": "bab69edb-d8bb-44e3-b46a-e2f7900c23cb",
-    "username": "npit",
-    "score": 52,
-    "num_solves": 17,
-    "latest_solve_time": "2023-04-07T14:18:23.559219+00:00"
-  },
-  {
     "user_id": "9beb593c-6633-4a6d-8b72-5ef64bee0c0c",
     "username": "0xbace",
     "score": 52,
@@ -532,18 +532,18 @@
     "latest_solve_time": "2023-04-06T10:50:28.207715+00:00"
   },
   {
-    "user_id": "cea2bab7-fc4f-40f8-9d68-f2acf34d483e",
-    "username": "zigkill",
-    "score": 52,
-    "num_solves": 27,
-    "latest_solve_time": "2023-04-07T13:07:27.324408+00:00"
-  },
-  {
     "user_id": "6829a235-886d-43ce-a290-95eee557b918",
     "username": "Vasaas1 ",
     "score": 52,
     "num_solves": 28,
     "latest_solve_time": "2023-04-06T20:27:51.660213+00:00"
+  },
+  {
+    "user_id": "cea2bab7-fc4f-40f8-9d68-f2acf34d483e",
+    "username": "zigkill",
+    "score": 52,
+    "num_solves": 30,
+    "latest_solve_time": "2023-04-07T15:01:44.351194+00:00"
   },
   {
     "user_id": "5d384e32-5d70-4f4a-9339-f1020f8d0495",
@@ -1470,13 +1470,6 @@
     "latest_solve_time": "2023-04-03T21:07:36.180263+00:00"
   },
   {
-    "user_id": "d742d2ce-f613-4c34-b5d1-d78eff7d2086",
-    "username": "cer",
-    "score": 30,
-    "num_solves": 5,
-    "latest_solve_time": "2023-04-07T14:58:49.798379+00:00"
-  },
-  {
     "user_id": "f653bac1-276a-4155-80c7-f1b01e24c765",
     "username": "Tarsom584",
     "score": 30,
@@ -1496,6 +1489,13 @@
     "score": 30,
     "num_solves": 6,
     "latest_solve_time": "2023-04-04T19:33:34.211806+00:00"
+  },
+  {
+    "user_id": "d742d2ce-f613-4c34-b5d1-d78eff7d2086",
+    "username": "cer",
+    "score": 30,
+    "num_solves": 6,
+    "latest_solve_time": "2023-04-07T15:02:14.856059+00:00"
   },
   {
     "user_id": "81cedf91-9060-4aa5-9d14-e0d26a9dbb8c",
