@@ -133,6 +133,13 @@
     "latest_solve_time": "2023-04-08T13:33:06.055998+00:00"
   },
   {
+    "user_id": "494a5f31-a0bf-43b9-9004-2ac8a2f650ed",
+    "username": "Joey",
+    "score": 82,
+    "num_solves": 10,
+    "latest_solve_time": "2023-04-08T13:59:04.543285+00:00"
+  },
+  {
     "user_id": "53c5c77b-df2d-4436-ba68-def79c4976de",
     "username": "nịikọo1337",
     "score": 81,
@@ -180,13 +187,6 @@
     "score": 72,
     "num_solves": 9,
     "latest_solve_time": "2023-04-07T19:38:44.654515+00:00"
-  },
-  {
-    "user_id": "494a5f31-a0bf-43b9-9004-2ac8a2f650ed",
-    "username": "Joey",
-    "score": 72,
-    "num_solves": 9,
-    "latest_solve_time": "2023-04-07T20:06:55.417271+00:00"
   },
   {
     "user_id": "d195aea3-4cd4-45b1-9918-90614f427060",
@@ -721,6 +721,13 @@
     "latest_solve_time": "2023-04-08T12:41:07.739304+00:00"
   },
   {
+    "user_id": "5aa96e2b-124d-4836-83c6-8a688dd9ef23",
+    "username": "Georg",
+    "score": 51,
+    "num_solves": 6,
+    "latest_solve_time": "2023-04-08T13:57:59.548367+00:00"
+  },
+  {
     "user_id": "0b83dcfa-7e58-4bd1-b889-bb631adecc1d",
     "username": "ioxsh",
     "score": 50,
@@ -901,13 +908,6 @@
     "score": 41,
     "num_solves": 5,
     "latest_solve_time": "2023-04-05T17:53:47.022657+00:00"
-  },
-  {
-    "user_id": "5aa96e2b-124d-4836-83c6-8a688dd9ef23",
-    "username": "Georg",
-    "score": 41,
-    "num_solves": 5,
-    "latest_solve_time": "2023-04-05T19:39:26.845873+00:00"
   },
   {
     "user_id": "192f2658-066c-4252-a9a1-d8b5e4a6cd2b",
@@ -1652,6 +1652,13 @@
     "latest_solve_time": "2023-04-08T13:42:28.04744+00:00"
   },
   {
+    "user_id": "b991e74f-1e90-4c69-8053-f3e429a32206",
+    "username": "CBJ",
+    "score": 30,
+    "num_solves": 3,
+    "latest_solve_time": "2023-04-08T13:53:11.930975+00:00"
+  },
+  {
     "user_id": "29a45a2b-4653-4836-84e5-759932555a0f",
     "username": "undric",
     "score": 22,
@@ -1993,13 +2000,6 @@
     "score": 20,
     "num_solves": 2,
     "latest_solve_time": "2023-04-08T13:01:18.827894+00:00"
-  },
-  {
-    "user_id": "b991e74f-1e90-4c69-8053-f3e429a32206",
-    "username": "CBJ",
-    "score": 20,
-    "num_solves": 2,
-    "latest_solve_time": "2023-04-08T13:43:21.443862+00:00"
   },
   {
     "user_id": "ab97a4f8-d982-46b6-8d36-33510c046467",
