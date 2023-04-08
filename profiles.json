@@ -6438,15 +6438,15 @@
     "valid_from": "2023-04-07T22:47:02"
   },
   {
-    "id": "86119fbf-0348-4a57-a638-adb59c46bece",
-    "updated_at": "2023-04-07T23:43:37.714976+00:00",
-    "username": null,
-    "valid_from": "2023-04-07T23:43:38"
-  },
-  {
     "id": "750260d6-d3f5-4d1c-b0ec-c1aa20db1241",
     "updated_at": "2023-04-07T23:43:39.387106+00:00",
     "username": "Imsdal",
     "valid_from": "2023-04-07T23:44:06"
+  },
+  {
+    "id": "86119fbf-0348-4a57-a638-adb59c46bece",
+    "updated_at": "2023-04-07T23:43:37.714976+00:00",
+    "username": "Udyret",
+    "valid_from": "2023-04-07T23:45:50"
   }
 ]
