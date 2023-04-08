@@ -4860,12 +4860,6 @@
     "valid_from": "2023-04-05T10:19:34"
   },
   {
-    "id": "da2dc6a7-cf7d-44b4-8636-6f6b68e9526e",
-    "updated_at": "2023-03-30T19:01:40.181584+00:00",
-    "username": null,
-    "valid_from": "2023-04-05T10:23:40"
-  },
-  {
     "id": "1c011cd7-bf34-4fc2-9576-83edb59048d4",
     "updated_at": "2023-04-05T10:25:42.065341+00:00",
     "username": "eirikff",
@@ -6676,5 +6670,53 @@
     "updated_at": "2023-04-08T09:42:15.970284+00:00",
     "username": null,
     "valid_from": "2023-04-08T09:42:16"
+  },
+  {
+    "id": "b4c706e4-5b9f-4568-8c9b-210b3dca175e",
+    "updated_at": "2023-04-08T09:48:05.281927+00:00",
+    "username": null,
+    "valid_from": "2023-04-08T09:48:05"
+  },
+  {
+    "id": "ffad66a9-27ce-4831-b143-2f633d8d822b",
+    "updated_at": "2023-04-08T09:48:18.77214+00:00",
+    "username": null,
+    "valid_from": "2023-04-08T09:48:19"
+  },
+  {
+    "id": "edbe2064-fac4-453e-910d-756125185fe8",
+    "updated_at": "2023-04-08T09:48:36.697344+00:00",
+    "username": null,
+    "valid_from": "2023-04-08T09:48:37"
+  },
+  {
+    "id": "1bf6c82d-e5db-4588-9204-451667ef6eb0",
+    "updated_at": "2023-04-08T09:49:10.347665+00:00",
+    "username": "Krimivici",
+    "valid_from": "2023-04-08T09:50:06"
+  },
+  {
+    "id": "da2dc6a7-cf7d-44b4-8636-6f6b68e9526e",
+    "updated_at": "2023-03-30T19:01:40.181584+00:00",
+    "username": "Dionysios",
+    "valid_from": "2023-04-08T09:55:52"
+  },
+  {
+    "id": "56919d62-a2ab-44d4-97a4-ef551326a16c",
+    "updated_at": "2023-04-08T09:59:14.777959+00:00",
+    "username": null,
+    "valid_from": "2023-04-08T09:59:15"
+  },
+  {
+    "id": "1ceb6950-12c8-41f9-b5d5-cdaef023dda8",
+    "updated_at": "2023-04-08T09:56:39.662112+00:00",
+    "username": "Sigmund",
+    "valid_from": "2023-04-08T09:59:22"
+  },
+  {
+    "id": "79e5559b-3ee5-4094-b95e-5f8a67e70414",
+    "updated_at": "2023-04-08T09:59:40.284262+00:00",
+    "username": null,
+    "valid_from": "2023-04-08T09:59:40"
   }
 ]
