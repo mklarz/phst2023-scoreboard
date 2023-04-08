@@ -6804,9 +6804,15 @@
     "valid_from": "2023-04-08T13:22:43"
   },
   {
+    "id": "065957d9-b414-4a1d-870b-26a04141d88e",
+    "updated_at": "2023-04-08T13:31:05.692936+00:00",
+    "username": "Kabbolainen",
+    "valid_from": "2023-04-08T13:32:00"
+  },
+  {
     "id": "d3efce16-9c91-4e1e-819f-0abb23f0c359",
     "updated_at": "2023-04-08T13:25:39.100722+00:00",
-    "username": null,
-    "valid_from": "2023-04-08T13:25:39"
+    "username": "Påsken2023",
+    "valid_from": "2023-04-08T13:36:52"
   }
 ]
