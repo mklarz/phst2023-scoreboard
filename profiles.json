@@ -6350,8 +6350,8 @@
   {
     "id": "6dd165e6-23ac-4f5e-8413-e28a1d02f8b3",
     "updated_at": "2023-04-08T08:14:37.485401+00:00",
-    "username": null,
-    "valid_from": "2023-04-08T08:14:37"
+    "username": "Skogsalven",
+    "valid_from": "2023-04-08T08:15:50"
   },
   {
     "id": "afbd0926-ac75-4b08-89ea-c0ca355fe3ef",
@@ -6580,5 +6580,17 @@
     "updated_at": "2023-04-08T02:49:54.528594+00:00",
     "username": "Eløv",
     "valid_from": "2023-04-08T02:51:07"
+  },
+  {
+    "id": "c46837fc-0e5b-4edc-ad4d-84d079dc0642",
+    "updated_at": "2023-04-08T08:16:20.214782+00:00",
+    "username": "Monzvi",
+    "valid_from": "2023-04-08T08:17:06"
+  },
+  {
+    "id": "4a6b0f30-38ff-4dc5-9b00-68f27cc4ee05",
+    "updated_at": "2023-04-08T08:23:42.055473+00:00",
+    "username": "gardf",
+    "valid_from": "2023-04-08T08:24:27"
   }
 ]
