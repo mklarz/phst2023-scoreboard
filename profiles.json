@@ -8164,5 +8164,17 @@
     "updated_at": "2023-04-09T18:26:30.580223+00:00",
     "username": "amilcare",
     "valid_from": "2023-04-09T18:27:08"
+  },
+  {
+    "id": "088a1a77-c232-4232-bae2-e273d622df88",
+    "updated_at": "2023-04-09T18:35:06.663684+00:00",
+    "username": "Borgen",
+    "valid_from": "2023-04-09T18:36:09"
+  },
+  {
+    "id": "f649f0c1-480c-443d-b389-e99ddc8fb8fb",
+    "updated_at": "2023-04-09T18:37:14.12157+00:00",
+    "username": null,
+    "valid_from": "2023-04-09T18:37:14"
   }
 ]
