@@ -6474,6 +6474,24 @@
     "valid_from": "2023-04-09T21:25:02"
   },
   {
+    "id": "70522a44-4d13-4f76-8ce4-6170b110ba22",
+    "updated_at": "2023-04-09T21:32:51.820912+00:00",
+    "username": null,
+    "valid_from": "2023-04-09T21:32:52"
+  },
+  {
+    "id": "bb4db97c-ec35-4e61-be64-523e7d018fb7",
+    "updated_at": "2023-04-09T21:33:44.826122+00:00",
+    "username": "BobTheShoplifter",
+    "valid_from": "2023-04-09T21:34:32"
+  },
+  {
+    "id": "840bebfb-28ef-4b67-b1b1-ef3bea97c80f",
+    "updated_at": "2023-04-09T21:34:52.485854+00:00",
+    "username": "Vetle2807",
+    "valid_from": "2023-04-09T21:35:34"
+  },
+  {
     "id": "afbd0926-ac75-4b08-89ea-c0ca355fe3ef",
     "updated_at": "2023-04-07T18:08:25.850011+00:00",
     "username": "ole",
