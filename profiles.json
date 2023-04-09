@@ -8052,12 +8052,6 @@
     "valid_from": "2023-04-09T16:56:41"
   },
   {
-    "id": "2ed79b9c-a3e3-4042-b0b9-e553d4d8d4f4",
-    "updated_at": "2023-04-09T17:01:33.699169+00:00",
-    "username": null,
-    "valid_from": "2023-04-09T17:01:34"
-  },
-  {
     "id": "6c394a72-e1d1-4e1a-8b93-39e08aa8b19f",
     "updated_at": "2023-04-09T17:02:40.944505+00:00",
     "username": null,
@@ -8074,5 +8068,29 @@
     "updated_at": "2023-04-09T17:05:30.918043+00:00",
     "username": null,
     "valid_from": "2023-04-09T17:05:31"
+  },
+  {
+    "id": "07cfa6b5-4bd0-49d4-8a08-c3ea17a7e3c7",
+    "updated_at": "2023-04-09T17:18:22.200098+00:00",
+    "username": "badsanta",
+    "valid_from": "2023-04-09T17:19:20"
+  },
+  {
+    "id": "2ed79b9c-a3e3-4042-b0b9-e553d4d8d4f4",
+    "updated_at": "2023-04-09T17:01:33.699169+00:00",
+    "username": "bareha",
+    "valid_from": "2023-04-09T17:20:25"
+  },
+  {
+    "id": "7818ae9e-0e22-45b1-83ae-90c94ab35b15",
+    "updated_at": "2023-04-09T17:25:59.861501+00:00",
+    "username": null,
+    "valid_from": "2023-04-09T17:26:00"
+  },
+  {
+    "id": "f8850151-9546-4ed4-9284-f2d9afb365cf",
+    "updated_at": "2023-04-09T17:26:11.34534+00:00",
+    "username": "sigridhøhø",
+    "valid_from": "2023-04-09T17:28:29"
   }
 ]
