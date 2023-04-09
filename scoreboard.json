@@ -98,6 +98,13 @@
     "latest_solve_time": "2023-04-09T19:14:40.921373+00:00"
   },
   {
+    "user_id": "09a32ad5-3d91-4578-87e7-1384dafe2c6b",
+    "username": "nitrobit",
+    "score": 92,
+    "num_solves": 11,
+    "latest_solve_time": "2023-04-09T19:34:22.585404+00:00"
+  },
+  {
     "user_id": "78d870ef-70d8-4a7e-a58f-c79e87443f33",
     "username": "smn",
     "score": 82,
@@ -266,13 +273,6 @@
     "latest_solve_time": "2023-04-08T23:04:32.611119+00:00"
   },
   {
-    "user_id": "09a32ad5-3d91-4578-87e7-1384dafe2c6b",
-    "username": "nitrobit",
-    "score": 82,
-    "num_solves": 10,
-    "latest_solve_time": "2023-04-08T23:49:06.117928+00:00"
-  },
-  {
     "user_id": "2d86f1ad-28b8-495d-bed6-f87e3fe9de56",
     "username": "TubaLuba",
     "score": 82,
@@ -306,6 +306,13 @@
     "score": 80,
     "num_solves": 8,
     "latest_solve_time": "2023-04-08T18:10:49.905122+00:00"
+  },
+  {
+    "user_id": "0d635b14-81c3-446f-bcd4-7078b426b1f1",
+    "username": "Goldwave",
+    "score": 80,
+    "num_solves": 8,
+    "latest_solve_time": "2023-04-09T19:42:26.484934+00:00"
   },
   {
     "user_id": "54da798a-3ff6-4b05-8438-7eb8caf41fe4",
@@ -441,6 +448,13 @@
     "latest_solve_time": "2023-04-09T07:14:28.068173+00:00"
   },
   {
+    "user_id": "5aa96e2b-124d-4836-83c6-8a688dd9ef23",
+    "username": "Georg",
+    "score": 72,
+    "num_solves": 9,
+    "latest_solve_time": "2023-04-09T19:41:18.00777+00:00"
+  },
+  {
     "user_id": "db24c43b-b6ab-43c8-9116-87b1d45229ce",
     "username": "tobyrama",
     "score": 71,
@@ -574,13 +588,6 @@
     "latest_solve_time": "2023-04-08T19:17:53.602146+00:00"
   },
   {
-    "user_id": "5aa96e2b-124d-4836-83c6-8a688dd9ef23",
-    "username": "Georg",
-    "score": 62,
-    "num_solves": 8,
-    "latest_solve_time": "2023-04-08T19:28:45.050658+00:00"
-  },
-  {
     "user_id": "356eb3bb-1a0b-46ff-ba02-35afd2e111b2",
     "username": "svindler",
     "score": 62,
@@ -656,13 +663,6 @@
     "score": 60,
     "num_solves": 6,
     "latest_solve_time": "2023-04-09T00:45:57.710629+00:00"
-  },
-  {
-    "user_id": "0d635b14-81c3-446f-bcd4-7078b426b1f1",
-    "username": "Goldwave",
-    "score": 60,
-    "num_solves": 6,
-    "latest_solve_time": "2023-04-09T18:44:30.83946+00:00"
   },
   {
     "user_id": "34bf73d0-a6a2-4177-a48c-1b44f8144e00",
