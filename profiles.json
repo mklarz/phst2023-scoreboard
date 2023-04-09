@@ -8154,12 +8154,6 @@
     "valid_from": "2023-04-09T18:19:19"
   },
   {
-    "id": "5798206d-2d23-4d11-8b93-53ad32276ed9",
-    "updated_at": "2023-04-09T18:24:46.152345+00:00",
-    "username": null,
-    "valid_from": "2023-04-09T18:24:46"
-  },
-  {
     "id": "9ce76db4-a8e1-4247-9d74-b2f0e4a6cf22",
     "updated_at": "2023-04-09T18:26:30.580223+00:00",
     "username": "amilcare",
@@ -8190,12 +8184,6 @@
     "valid_from": "2023-04-09T18:46:13"
   },
   {
-    "id": "30cf68bd-c58f-4d49-a41c-77f83cfd768e",
-    "updated_at": "2023-04-09T18:46:57.801054+00:00",
-    "username": null,
-    "valid_from": "2023-04-09T18:46:58"
-  },
-  {
     "id": "1fad2939-0d46-43a8-8c3a-cd9705420b3c",
     "updated_at": "2023-04-09T18:54:24.485921+00:00",
     "username": "hemmelig",
@@ -8206,5 +8194,47 @@
     "updated_at": "2023-04-09T18:56:01.112119+00:00",
     "username": "sussyradish",
     "valid_from": "2023-04-09T18:56:56"
+  },
+  {
+    "id": "9b9927d5-9b42-48ac-99fe-e24e7b9d72ef",
+    "updated_at": "2023-04-09T19:02:24.865542+00:00",
+    "username": null,
+    "valid_from": "2023-04-09T19:02:25"
+  },
+  {
+    "id": "30cf68bd-c58f-4d49-a41c-77f83cfd768e",
+    "updated_at": "2023-04-09T18:46:57.801054+00:00",
+    "username": "veb",
+    "valid_from": "2023-04-09T19:02:52"
+  },
+  {
+    "id": "f68cc964-5d52-47dc-a277-e6fd0dc5fd0f",
+    "updated_at": "2023-04-09T19:06:21.941505+00:00",
+    "username": "skarlando",
+    "valid_from": "2023-04-09T19:06:55"
+  },
+  {
+    "id": "5798206d-2d23-4d11-8b93-53ad32276ed9",
+    "updated_at": "2023-04-09T18:24:46.152345+00:00",
+    "username": "Taperlaget",
+    "valid_from": "2023-04-09T19:06:56"
+  },
+  {
+    "id": "a52e88f7-8f7c-4d09-92e8-18cb87fc083b",
+    "updated_at": "2023-04-09T19:09:17.367716+00:00",
+    "username": null,
+    "valid_from": "2023-04-09T19:09:17"
+  },
+  {
+    "id": "d6127f13-8e1c-40fc-8ed6-299aa2cd1aa4",
+    "updated_at": "2023-04-09T19:07:49.350099+00:00",
+    "username": "Phayus",
+    "valid_from": "2023-04-09T19:09:44"
+  },
+  {
+    "id": "82f0fde8-f199-424f-b469-d165e2a9f886",
+    "updated_at": "2023-04-09T19:09:19.599765+00:00",
+    "username": "cencer77",
+    "valid_from": "2023-04-09T19:10:04"
   }
 ]

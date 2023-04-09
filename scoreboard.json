@@ -91,6 +91,13 @@
     "latest_solve_time": "2023-04-09T18:54:37.882092+00:00"
   },
   {
+    "user_id": "2728b044-d6ac-489a-afb6-e6aa8da275c2",
+    "username": "🐣Gulla🐣",
+    "score": 92,
+    "num_solves": 11,
+    "latest_solve_time": "2023-04-09T19:14:40.921373+00:00"
+  },
+  {
     "user_id": "78d870ef-70d8-4a7e-a58f-c79e87443f33",
     "username": "smn",
     "score": 82,
@@ -243,13 +250,6 @@
     "score": 82,
     "num_solves": 10,
     "latest_solve_time": "2023-04-08T21:46:52.450468+00:00"
-  },
-  {
-    "user_id": "2728b044-d6ac-489a-afb6-e6aa8da275c2",
-    "username": "🐣Gulla🐣",
-    "score": 82,
-    "num_solves": 10,
-    "latest_solve_time": "2023-04-08T21:48:26.865483+00:00"
   },
   {
     "user_id": "eb167ca7-fab3-466d-985f-ab428fa2a0bd",
@@ -595,6 +595,13 @@
     "latest_solve_time": "2023-04-09T14:01:47.07876+00:00"
   },
   {
+    "user_id": "d1e050c4-4978-4eae-a7cc-790d001a3b29",
+    "username": "fremtidignaver",
+    "score": 62,
+    "num_solves": 8,
+    "latest_solve_time": "2023-04-09T19:06:12.294064+00:00"
+  },
+  {
     "user_id": "45fe91f0-ff77-4f2e-a121-e633a4f44453",
     "username": "Amongus",
     "score": 61,
@@ -628,13 +635,6 @@
     "score": 61,
     "num_solves": 7,
     "latest_solve_time": "2023-04-08T19:20:52.325143+00:00"
-  },
-  {
-    "user_id": "d1e050c4-4978-4eae-a7cc-790d001a3b29",
-    "username": "fremtidignaver",
-    "score": 61,
-    "num_solves": 7,
-    "latest_solve_time": "2023-04-08T19:55:53.555958+00:00"
   },
   {
     "user_id": "b0698354-e5f1-4367-88c0-ac8e77218e66",
@@ -2289,6 +2289,13 @@
     "latest_solve_time": "2023-04-06T20:28:30.070095+00:00"
   },
   {
+    "user_id": "30cf68bd-c58f-4d49-a41c-77f83cfd768e",
+    "username": "veb",
+    "score": 11,
+    "num_solves": 2,
+    "latest_solve_time": "2023-04-09T19:02:40.738888+00:00"
+  },
+  {
     "user_id": "1b8d218d-0d83-4ddd-a16c-31ad6c7c69f3",
     "username": "grantre",
     "score": 10,
@@ -2483,6 +2490,13 @@
     "score": 10,
     "num_solves": 1,
     "latest_solve_time": "2023-04-09T18:42:36.272013+00:00"
+  },
+  {
+    "user_id": "5798206d-2d23-4d11-8b93-53ad32276ed9",
+    "username": "Taperlaget",
+    "score": 10,
+    "num_solves": 1,
+    "latest_solve_time": "2023-04-09T18:59:22.453499+00:00"
   },
   {
     "user_id": "1fad2939-0d46-43a8-8c3a-cd9705420b3c",
