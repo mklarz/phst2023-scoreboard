@@ -6588,6 +6588,12 @@
     "valid_from": "2023-04-10T07:10:25"
   },
   {
+    "id": "8987cbac-bdef-44ac-b6b2-84e49c1de432",
+    "updated_at": "2023-04-10T07:29:46.902547+00:00",
+    "username": null,
+    "valid_from": "2023-04-10T07:29:47"
+  },
+  {
     "id": "afbd0926-ac75-4b08-89ea-c0ca355fe3ef",
     "updated_at": "2023-04-07T18:08:25.850011+00:00",
     "username": "ole",
@@ -7350,12 +7356,6 @@
     "valid_from": "2023-04-08T19:47:13"
   },
   {
-    "id": "ffdc0b3a-9793-47e1-8cf4-ad2466551aef",
-    "updated_at": "2023-04-10T06:23:47.419327+00:00",
-    "username": null,
-    "valid_from": "2023-04-10T06:23:47"
-  },
-  {
     "id": "116b0986-c78b-4782-b115-44c8af712aa0",
     "updated_at": "2023-04-08T19:47:55.336423+00:00",
     "username": "zenhwife",
@@ -7414,6 +7414,12 @@
     "updated_at": "2023-04-10T06:29:27.379802+00:00",
     "username": null,
     "valid_from": "2023-04-10T06:29:27"
+  },
+  {
+    "id": "ffdc0b3a-9793-47e1-8cf4-ad2466551aef",
+    "updated_at": "2023-04-10T06:23:47.419327+00:00",
+    "username": "HeleneHarefrøken",
+    "valid_from": "2023-04-10T07:25:28"
   },
   {
     "id": "11dd6134-2cc1-4cc7-9874-a02332b7c888",
