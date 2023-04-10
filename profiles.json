@@ -6690,12 +6690,6 @@
     "valid_from": "2023-04-10T09:54:50"
   },
   {
-    "id": "e1f0c3e2-4b7f-4df6-8f96-b6d8765cee25",
-    "updated_at": "2023-04-10T10:01:53.83727+00:00",
-    "username": null,
-    "valid_from": "2023-04-10T10:01:54"
-  },
-  {
     "id": "eb0b332e-17b2-404b-acfa-4d894df175d4",
     "updated_at": "2023-04-10T10:04:15.501436+00:00",
     "username": null,
@@ -6710,8 +6704,26 @@
   {
     "id": "f705fa90-259e-437a-ac65-98c2f33effbe",
     "updated_at": "2023-04-10T10:24:28.359779+00:00",
+    "username": "Jul_E._Nissen",
+    "valid_from": "2023-04-10T10:30:06"
+  },
+  {
+    "id": "e1f0c3e2-4b7f-4df6-8f96-b6d8765cee25",
+    "updated_at": "2023-04-10T10:01:53.83727+00:00",
+    "username": "Roype",
+    "valid_from": "2023-04-10T10:38:51"
+  },
+  {
+    "id": "94deb10f-dbfc-48d5-bffe-7ec71334c6cc",
+    "updated_at": "2023-04-10T10:41:21.36002+00:00",
     "username": null,
-    "valid_from": "2023-04-10T10:24:28"
+    "valid_from": "2023-04-10T10:41:21"
+  },
+  {
+    "id": "a9a2efeb-0e96-4d92-8957-20af44820bb3",
+    "updated_at": "2023-04-10T10:40:29.995312+00:00",
+    "username": "Tore Chickenlegs",
+    "valid_from": "2023-04-10T10:41:27"
   },
   {
     "id": "afbd0926-ac75-4b08-89ea-c0ca355fe3ef",
