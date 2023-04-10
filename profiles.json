@@ -7716,6 +7716,36 @@
     "valid_from": "2023-04-10T16:48:08"
   },
   {
+    "id": "7db3f6cc-8822-442d-8161-c1ac90558cad",
+    "updated_at": "2023-04-10T17:05:25.376781+00:00",
+    "username": null,
+    "valid_from": "2023-04-10T17:05:25"
+  },
+  {
+    "id": "ad250e9c-5560-4664-88f3-46bcb2efbf3b",
+    "updated_at": "2023-04-10T17:04:22.351804+00:00",
+    "username": "Lkh",
+    "valid_from": "2023-04-10T17:05:50"
+  },
+  {
+    "id": "fd0c923e-e0a1-4f6f-8312-f3606be9dcf9",
+    "updated_at": "2023-04-10T17:07:12.075414+00:00",
+    "username": null,
+    "valid_from": "2023-04-10T17:07:12"
+  },
+  {
+    "id": "9bfe3335-5083-4c5e-97d7-db0961caa2b9",
+    "updated_at": "2023-04-10T17:10:31.808503+00:00",
+    "username": null,
+    "valid_from": "2023-04-10T17:10:32"
+  },
+  {
+    "id": "dc9c410d-312c-426c-b3ae-cd5a0f4be4e0",
+    "updated_at": "2023-04-10T17:10:01.522537+00:00",
+    "username": "mbakkene",
+    "valid_from": "2023-04-10T17:10:51"
+  },
+  {
     "id": "509f7d7d-9542-4f76-a739-b81c972cb7f2",
     "updated_at": "2023-04-08T17:56:46.867356+00:00",
     "username": null,
