@@ -8952,12 +8952,6 @@
     "valid_from": "2023-04-09T14:20:44"
   },
   {
-    "id": "157e3b79-bee4-4070-b68d-d11f9e0026fa",
-    "updated_at": "2023-04-11T19:40:57.852937+00:00",
-    "username": null,
-    "valid_from": "2023-04-11T19:40:58"
-  },
-  {
     "id": "31e468ae-a17d-420b-937b-4705963ff9fe",
     "updated_at": "2023-04-11T19:43:40.317594+00:00",
     "username": null,
@@ -8980,6 +8974,12 @@
     "updated_at": "2023-04-09T14:22:56.389099+00:00",
     "username": "waowi",
     "valid_from": "2023-04-09T14:23:37"
+  },
+  {
+    "id": "157e3b79-bee4-4070-b68d-d11f9e0026fa",
+    "updated_at": "2023-04-11T19:40:57.852937+00:00",
+    "username": "theodorklauritzen",
+    "valid_from": "2023-04-11T19:45:47"
   },
   {
     "id": "7cd1793b-81f7-4e95-abe0-2bef8daeebac",
