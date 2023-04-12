@@ -2464,6 +2464,13 @@
     "latest_solve_time": "2023-04-12T06:43:38.293707+00:00"
   },
   {
+    "user_id": "f623edab-f746-48d1-967a-1c5cd9e18e15",
+    "username": "Navn",
+    "score": 11,
+    "num_solves": 2,
+    "latest_solve_time": "2023-04-12T12:32:24.240899+00:00"
+  },
+  {
     "user_id": "1b8d218d-0d83-4ddd-a16c-31ad6c7c69f3",
     "username": "grantre",
     "score": 10,
@@ -2973,5 +2980,12 @@
     "score": 1,
     "num_solves": 1,
     "latest_solve_time": "2023-04-12T11:59:04.859546+00:00"
+  },
+  {
+    "user_id": "fef89d23-c545-405e-bc09-41fc08ac8c3e",
+    "username": "thorn",
+    "score": 1,
+    "num_solves": 1,
+    "latest_solve_time": "2023-04-12T12:30:57.746689+00:00"
   }
 ]
