@@ -6342,16 +6342,16 @@
     "valid_from": "2023-04-12T09:47:38"
   },
   {
-    "id": "ee76b4d8-bf90-4af2-bb6d-6f4a240b509b",
-    "updated_at": "2023-04-12T09:50:50.159618+00:00",
-    "username": null,
-    "valid_from": "2023-04-12T09:50:50"
-  },
-  {
     "id": "5c3b4c1c-c9f8-4e99-969b-e2f922d2cd6f",
     "updated_at": "2023-04-12T09:58:05.136211+00:00",
     "username": null,
     "valid_from": "2023-04-12T09:58:05"
+  },
+  {
+    "id": "ee76b4d8-bf90-4af2-bb6d-6f4a240b509b",
+    "updated_at": "2023-04-12T09:50:50.159618+00:00",
+    "username": "K:D",
+    "valid_from": "2023-04-12T10:10:30"
   },
   {
     "id": "f323488f-0b6b-483d-9de2-e3bf1cef51e4",
