@@ -6402,6 +6402,18 @@
     "valid_from": "2023-04-12T12:11:20"
   },
   {
+    "id": "6c3d4b68-45cb-4733-8437-3e44db6ad1be",
+    "updated_at": "2023-04-12T12:18:45.552354+00:00",
+    "username": null,
+    "valid_from": "2023-04-12T12:18:46"
+  },
+  {
+    "id": "f623edab-f746-48d1-967a-1c5cd9e18e15",
+    "updated_at": "2023-04-12T12:26:25.510402+00:00",
+    "username": "Navn",
+    "valid_from": "2023-04-12T11:28:21"
+  },
+  {
     "id": "f323488f-0b6b-483d-9de2-e3bf1cef51e4",
     "updated_at": "2023-04-07T17:35:29.431778+00:00",
     "username": null,
