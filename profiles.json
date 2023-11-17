@@ -103,5 +103,19 @@
     "username": "jjk",
     "valid_from": "2023-11-09T12:28:25.024+00:00",
     "organization_id": 1
+  },
+  {
+    "id": "8db7ef3e-2ce4-46a3-9478-4bf86480ed51",
+    "updated_at": "2023-11-17T16:46:58.46207+00:00",
+    "username": null,
+    "valid_from": "2023-11-17T16:46:58.46207+00:00",
+    "organization_id": 2
+  },
+  {
+    "id": "ef5b0d5f-7d1d-4cc4-a2e3-f07d6171191d",
+    "updated_at": "2023-11-17T16:58:06.2677+00:00",
+    "username": null,
+    "valid_from": "2023-11-17T16:58:06.2677+00:00",
+    "organization_id": 1
   }
 ]
